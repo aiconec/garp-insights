@@ -1,5 +1,5 @@
 app_name = "insights"
-app_title = "GARP Insights"
+app_title = "GARP Data Studio"
 app_publisher = "Aiconec GARP"
 app_description = "Powerful Reporting Tool for Frappe Apps"
 app_icon = "octicon octicon-file-directory"
@@ -15,7 +15,7 @@ add_to_apps_screen = [
     {
         "name": "insights",
         "logo": "/assets/insights/frontend/insights-logo.png",
-        "title": "Insights",
+        "title": "GARP Data Studio",
         "route": "/insights",
         "has_permission": "insights.permissions.check_app_permission",
     }
