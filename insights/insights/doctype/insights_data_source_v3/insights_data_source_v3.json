@@ -90,7 +90,7 @@
    "depends_on": "is_frappe_db",
    "fieldname": "is_frappe_db",
    "fieldtype": "Check",
-   "label": "Is Frappe Database",
+   "label": "Is GARP Database",
    "read_only": 1
   },
   {
