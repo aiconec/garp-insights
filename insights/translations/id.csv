@@ -1,0 +1,608 @@
+1:1,1:1
+1:N,1:N
+API Configuration,Konfigurasi API
+API Key / Bearer Token,Kunci API / Token Pembawa
+API Password,Kata Sandi API
+API Token,API Token
+API Username,Nama Pengguna API
+Above average,Di atas rata-rata
+Accepted,Diterima
+Accepted At,Diterima pada
+Access,Mengakses
+Account,Akun
+Action if table exists,Tindakan jika tabel ada
+Active,Aktif
+Add,Tambahkan
+Add Data Source,Tambahkan Sumber Data
+Add Filter,Tambah Filter
+Add New Column,Tambahkan Kolom Baru
+Add Operation,Tambahkan Operasi
+Add a new column based on existing columns,Tambahkan kolom baru berdasarkan kolom yang ada
+Add column,Tambahkan kolom
+Aggregation,Pengumpulan
+Aggregation Condition,Kondisi Agregasi
+Alert Created,Peringatan Dibuat
+Alert Disabled,Peringatan Dinonaktifkan
+Alert Enabled,Peringatan Diaktifkan
+Alert Name,Nama Peringatan
+Alert Sent,Peringatan Terkirim
+Alert Updated,Peringatan Diperbarui
+Alert sent,Peringatan terkirim
+Alerts,Peringatan
+Allow Subquery,Izinkan Subkueri
+Allow Table Import,Izinkan Impor Tabel
+Allowed Origins,Asal yang Diizinkan
+Alternate,Bergantian
+Amber,Amber
+Amended From,Diamendemen Dari
+Anyone in the organization can view,Siapa pun di organisasi dapat melihat
+Anyone with the link can view,Siapa pun yang memiliki tautan dapat melihatnya
+Append,Menambahkan
+Append Rows,Tambahkan Baris
+Append Table,Tambahkan Tabel
+Append this table with another table or query,Tambahkan tabel ini dengan tabel atau kueri lain
+Apply Filters,Terapkan Filter
+Apply User Permissions,Terapkan Izin Pengguna
+Apply a custom operation using python script,Terapkan operasi khusus menggunakan skrip python
+Are you sure you want to log out?,Apakah Anda yakin ingin logout?
+Are you sure you want to login to your Frappe Cloud dashboard?,Apakah Anda yakin ingin masuk ke dasbor GARP Cloud Anda?
+Authentication Type,Jenis Otentikasi
+Auto Execute Query,Eksekusi Otomatis Kueri
+Automatically arrange cards vertically to fill empty spaces,Secara otomatis menyusun kartu secara vertikal untuk mengisi ruang kosong
+Average of...,Rata-rata dari...
+Base URL,URL Dasar
+Basic Authentication,Otentikasi Dasar
+Batch Size,Ukuran Batch
+Before Import Script,Sebelum Impor Skrip
+Below average,Di bawah rata-rata
+BigQuery,Kueri Besar
+BigQuery Configuration,Konfigurasi BigQuery
+BigQuery Dataset ID,ID Set Data BigQuery
+BigQuery Project ID,ID Proyek BigQuery
+BigQuery Service Account Key (JSON),Kunci Akun Layanan BigQuery (JSON)
+Bottom,Bawah
+Bottom N percent,N persen terbawah
+Bottom N values,Nilai N terbawah
+Bulk Enqueue Import Job,Pekerjaan Impor Enqueue Massal
+Bulk Enqueue Progress,Kemajuan Entri Massal
+CSV,CSV
+Cache Query Results For (Minutes),Hasil Kueri Cache Untuk (Menit)
+Can Edit,Dapat Mengedit
+Can View,Dapat Melihat
+Cancel,Batalkan
+Cardinality,Kardinalitas
+Channel,Kanal
+Chart,Bagan
+Chart Type,Jenis bagan
+Charts,Bagan
+Check once a month,Periksa sebulan sekali
+Check once a week,Periksa seminggu sekali
+Check once an hour,Periksa satu jam sekali
+Choose Columns,Pilih Kolom
+Clear,Bersih
+ClickHouse,Klik Rumah
+Close,Tutup
+Collapse,Jatuh
+Color,Warna
+Color Scale,Skala Warna
+Column,Kolom
+Columns,Kolom
+Comma seperated URLs to whitelist for embedding charts & dashboards,URL yang dipisahkan koma ke daftar putih untuk menyematkan bagan & dasbor
+Compact Layout,Tata Letak Kompak
+Completed,Selesai
+Condition,Kondisi
+Config,Konfigurasi
+Confirm,Menegaskan
+Connect,Menghubungkan
+Connect to ClickHouse,Hubungkan ke ClickHouse
+Connect to ClickHouse database,Hubungkan ke basis data ClickHouse
+Connect to DuckDB,Hubungkan ke DuckDB
+Connect to DuckDB database,Hubungkan ke basis data DuckDB
+Connect to MariaDB,Hubungkan ke MariaDB
+Connect to MariaDB database,Hubungkan ke basis data MariaDB
+Connect to PostgreSQL,Hubungkan ke PostgreSQL
+Connect to PostgreSQL database,Hubungkan ke basis data PostgreSQL
+Connection String,Rangkaian Koneksi
+Content,Konten
+Continue,Terus
+Copy JSON,Salin JSON
+Copy Query,Salin Kueri
+Count of...,Hitungan...
+Create,Buat
+Create Alert,Buat Peringatan
+Create Measure,Buat Ukuran
+Create Team,Buat Tim
+Create a dashboard in your workbook to view it here.,Buat dasbor di buku kerja Anda untuk melihatnya di sini.
+Created,Dibuat
+Created By,Dibuat Oleh
+Creation,Penciptaan
+Cron,Kron
+Cron Format,Format Cron
+Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,Ekspresi cron untuk menjadwalkan skrip. Catatan: Penjadwal memeriksa pekerjaan setiap jam.
+CumulativeSum,Jumlah Kumulatif
+Custom Condition,Kondisi Kustom
+Custom Headers,Header Kustom
+Custom Join Condition,Kondisi Gabung Khusus
+Custom Operation,Operasi Kustom
+Custom headers for API requests (non-sensitive data only),Header khusus untuk permintaan API (hanya data non-sensitif)
+Daily,Sehari-hari
+Dashboard Access Updated,Akses Dasbor Diperbarui
+Dashboards,Dasbor
+Data Backup,Cadangan Data
+Data Query,Kueri Data
+Data Source,Sumber Data
+Data Sources,Sumber Data
+Data Sources | Insights,Sumber Data | Wawasan
+Data Store,Penyimpanan Data
+Data Type,Tipe Data
+Database,Basis data
+Database Name,Nama Basis Data
+Database Type,Tipe Basis Data
+Date,Tanggal
+Date Rules,Aturan Tanggal
+Datetime,Tanggal dan Waktu
+Decimal,Desimal
+Default Value,Nilai Bawaan
+Delete,Hapus
+Demo Data Ready,Data Demo Siap
+Disable Alert,Nonaktifkan Peringatan
+Disabled,Dinonaktifkan
+Documentation,Dokumentasi
+Done,Selesai
+Draft,Draf
+Drill Down,Telusuri
+Drop Duplicates,Jatuhkan Duplikat
+DuckDB,BebekDB
+Duplicate,Duplikat
+Duplicate Chart,Bagan Duplikat
+Duplicate Query,Kueri Duplikat
+Duration (Seconds),Durasi (Detik)
+Edit,Sunting
+Edit Filter,Sunting Filter
+Edit Text,Sunting Teks
+Email,Surel
+Email Sent At,Email Dikirim Pada
+Empty - Click 'Add Filter' to add a filter,Kosong - Klik 'Tambahkan Filter' untuk menambahkan filter
+Enable Alert,Aktifkan Peringatan
+Enable Data Store,Aktifkan Penyimpanan Data
+Enable Permissions,Aktifkan Izin
+Enable Stored Procedure Execution,Aktifkan Eksekusi Prosedur Tersimpan
+Enabled,Diaktifkan
+Ended At,Selesai pada
+Enqueue,Entri
+Enter filename,Masukkan nama file
+Enter filter label...,Masukkan label filter...
+Enter text,Masukkan teks
+Enter the URL of the DuckDB file,Masukkan URL file DuckDB
+Enter your text content here...,Masukkan konten teks Anda di sini...
+Error,Kesalahan
+Excel,Unggul
+Execute,Menjalankan
+Execution Failed,Eksekusi Gagal
+Execution Successful,Eksekusi Berhasil
+Execution Time (seconds),Waktu Eksekusi (detik)
+Expand,Memperluas
+Expired,Kedaluwarsa
+Export,Ekspor
+Export Data,Ekspor Data
+Export Format,Format Ekspor
+Export as PNG,Ekspor sebagai PNG
+Expression,Ekspresi
+Fail,Gagal
+Failed,Gagal
+Failed to format SQL,Gagal memformat SQL
+Failed to import table,Gagal mengimpor tabel
+Failed to process uploaded file,Gagal memproses file yang diunggah
+Failed to setup demo data,Gagal menyiapkan data demo
+Favorites,Favorit
+Fetched from cache,Diambil dari cache
+File URL,URL File
+Filename,Nama file
+Filter,Menyaring
+Filter Icon,Ikon Penyaring
+Filter Rows,Filter Baris
+Filter rows based on columns or expressions,Filter baris berdasarkan kolom atau ekspresi
+Filters,Filter
+Fiscal Year Start,Awal Tahun Anggaran
+Folder and item must belong to the same workbook,Folder dan item harus berada dalam buku kerja yang sama
+Force Refresh,Paksa Penyegaran
+Force Run,Paksa Jalankan
+Foreign Key,Kunci Asing
+Foreign Table,Meja Asing
+Foreign Table Label,Label Tabel Asing
+Format Option,Opsi Format
+Format SQL,Memformat SQL
+Frappe Insights,GARP Data Studio
+Frequency,Frekuensi
+Friday,Jumat
+General,Umum
+Generated SQL,SQL yang dihasilkan
+Green,Hijau
+Green-Red,Hijau-Merah
+Group & Summarize,Kelompokkan & Ringkas
+Group rows by columns and summarize the data,Kelompokkan baris demi kolom dan rangkum datanya
+HTTP Headers,Header HTTP
+Hidden,Tersembunyi
+Highlight Cell,Sorot Sel
+Horizontal,Horisontal
+Host,Tuan rumah
+Hourly,Setiap Jam
+ID,PENGENAL
+Import,Impor
+Import Failed,Impor Gagal
+Import Job,Impor Pekerjaan
+Import Query,Impor Kueri
+Import Table,Tabel Impor
+Import job has been queued,Pekerjaan impor telah dimasukkan dalam antrean
+Import to Warehouse,Impor ke Gudang
+In Progress,Sedang berlangsung
+Inactive,Tidak aktif
+India,India
+Insights Admin,Admin Wawasan
+Insights Alert,Peringatan Wawasan
+Insights Chart,Bagan Wawasan
+Insights Chart v3,Bagan Wawasan v3
+Insights Dashboard,Dasbor Wawasan
+Insights Dashboard Chart v3,Bagan Dasbor Wawasan v3
+Insights Dashboard Item,Item Dasbor Wawasan
+Insights Dashboard v3,Dasbor Wawasan v3
+Insights Data Source,Sumber Data Wawasan
+Insights Data Source v3,Sumber Data Wawasan v3
+Insights Folder,Folder Wawasan
+Insights Notebook,Buku Catatan Wawasan
+Insights Notebook Page,Halaman Buku Catatan Wawasan
+Insights Query,Kueri Wawasan
+Insights Query Chart,Bagan Kueri Wawasan
+Insights Query Column,Kolom Kueri Wawasan
+Insights Query Execution Log,Log Eksekusi Kueri Wawasan
+Insights Query Result,Hasil Kueri Wawasan
+Insights Query Table,Tabel Kueri Wawasan
+Insights Query Transform,Transformasi Kueri Wawasan
+Insights Query Variable,Variabel Kueri Wawasan
+Insights Query v3,Kueri Wawasan v3
+Insights Resource Permission,Izin Sumber Daya Wawasan
+Insights Secret Key,Kunci Rahasia Wawasan
+Insights Settings,Pengaturan Wawasan
+Insights Table,Tabel Wawasan
+Insights Table Column,Kolom Tabel Wawasan
+Insights Table Import,Impor Tabel Wawasan
+Insights Table Import Job,Pekerjaan Impor Tabel Wawasan
+Insights Table Import Log,Log Impor Tabel Wawasan
+Insights Table Link,Tautan Tabel Wawasan
+Insights Table Link v3,Tautan Tabel Wawasan v3
+Insights Table v3,Tabel Wawasan v3
+Insights Team,Tim Wawasan
+Insights Team Member,Anggota Tim Wawasan
+Insights User,Pengguna Wawasan
+Insights User Invitation,Undangan Pengguna Wawasan
+Insights Workbook,Buku Kerja Wawasan
+Integer,Bilangan bulat
+Integrations,Integrasi
+Invitation Expired,Undangan Kedaluwarsa
+Invitation Sent,Undangan Terkirim
+Invite User,Undang Pengguna
+Invited By,Diundang Sebagai
+Is Assisted Query,Adalah Kueri Berbantuan
+Is Builder Query,Adalah Kueri Pembuat
+Is DuckLake,Apakah DuckLake
+Is Expanded,Diperluas
+Is Expression,Adalah Ekspresi
+Is Frappe Database,Adalah Basis Data GARP
+Is Native Query,Apakah Kueri Asli
+Is Public,Publik
+Is Query Based,Berbasis Kueri
+Is Saved as Table,Disimpan sebagai Tabel
+Is Script Query,Apakah Permintaan Skrip
+Is Site Database,Adalah Basis Data Situs
+Items,Item
+JSON,JSON
+Join,Bergabung
+Join Table,Bergabunglah dengan Tabel
+Join Telegram Group,Bergabunglah dengan Grup Telegram
+Join this table with another table or query,Gabungkan tabel ini dengan tabel atau kueri lain
+Justify,Membenarkan
+Key,Kunci
+Label,Label
+Last Active,Terakhir Aktif
+Last Executed On,Terakhir Dieksekusi Pada
+Last Execution,Eksekusi Terakhir
+Last Log,Catatan Terakhir
+Last Run,Terakhir Dijalankan
+Last Status,Status Terakhir
+Last Synced,Terakhir Disinkronkan
+Last Synced On,Terakhir Disinkronkan Pada
+Left,Waktu tersisa
+Left Column,Kolom Kiri
+Left Table,Meja Kiri
+Legacy,Warisan
+Limit,Batas
+Linked Charts,Bagan Tertaut
+Linked Queries,Kueri Tertaut
+Links,Tautan
+Log,Catatan
+Log out,Keluar
+Login to Frappe Cloud,Masuk ke GARP Cloud
+Login to Frappe Cloud?,Masuk ke GARP Cloud?
+Logs,Log
+Long Int,Panjang Int
+Long Text,Teks Panjang
+Manage Team,Kelola Tim
+Manage Workbook Access,Kelola Akses Buku Kerja
+MariaDB,MariaDB
+Mark as Failed,Tandai sebagai Gagal
+Markdown supported,Penurunan harga didukung
+Max Execution Time (Seconds),Waktu Eksekusi Maks (Detik)
+Max Memory Usage,Penggunaan Memori Maks
+Max Records To Sync,Catatan Maks Untuk Disinkronkan
+Maximum of...,Maksimum...
+Measure Name,Nama Ukur
+Memory Limit (MB),Batas Memori (MB)
+Message,Pesan
+Minimum of...,Minimal...
+Modified,Dimodifikasi
+Monday,Senin
+Monthly,Bulanan
+N:1,N:1
+N:N,N:N
+Name,Nama
+New Alert,Peringatan Baru
+New Chart,Diagram Baru
+New Dashboard,Dasbor Baru
+New Data Source,Sumber Data Baru
+New Query,Kueri Baru
+New Workbook,Buku Kerja Baru
+Next Execution,Eksekusi Berikutnya
+No,Tidak
+No Dashboards,Tidak Ada Dasbor
+No Queries Found,Tidak Ada Pertanyaan yang Ditemukan
+No Tables Stored,Tidak Ada Tabel yang Disimpan
+No Workbooks,Tidak Ada Buku Kerja
+No alerts,Tidak ada peringatan
+No columns selected,Tidak ada kolom yang dipilih
+No data sources to display.,Tidak ada sumber data untuk ditampilkan.
+No data sources.,Tidak ada sumber data.
+No tables found for the selected data source.,Tidak ditemukan tabel untuk sumber data yang dipilih.
+No tables found in the data store.,Tidak ada tabel yang ditemukan di penyimpanan data.
+No teams to display.,Tidak ada tim untuk ditampilkan.
+No teams.,Tidak ada tim.
+No users to display.,Tidak ada pengguna untuk ditampilkan.
+No users.,Tidak ada pengguna.
+No workbooks created,Tidak ada buku kerja yang dibuat
+No workbooks to display.,Tidak ada buku kerja untuk ditampilkan.
+None,Tidak ada
+Notebook,Buku catatan
+Old Name,Nama Lama
+Onboarding Complete,Orientasi Selesai
+Open Workbook,Buka Buku Kerja
+Open in Desk,Buka di Meja
+Operations,Operasi
+Operator,Operator
+Options,Opsi
+Order By,Dipesan oleh
+Organization,Organisasi
+Overwrite,Timpa
+Owner,Pemilik
+Parquet File,File Parket
+Partial Success,Berhasil Sebagian
+Password,Kata sandi
+Pending,Tertunda
+Pending Execution,Eksekusi yang Tertunda
+Permissions,Otorisasi
+Permissions updated,Izin diperbarui
+Persistent state storage for the script,Penyimpanan status persisten untuk skrip
+Pick Starting Data,Pilih Data Awal
+Pivot,Poros
+Please select a data source first,Silakan pilih sumber data terlebih dahulu
+Please wait while we refresh the tables from your data source,Harap tunggu sementara kami menyegarkan tabel dari sumber data Anda
+Port,Pelabuhan
+Position & Size,Posisi & Ukuran
+PostgreSQL,PostgreSQL
+Preview Image,Pratinjau Gambar
+Primary Key,Kunci Utama
+Profile,Profil
+Public Key,Kunci Publik
+Queries,Pertanyaan
+Query,Kueri
+Query Result Limit,Batas Hasil Kueri
+Queued,Diantrikan
+Quick Actions,Tindakan Cepat
+REST API,API REST
+Ranking Condition,Kondisi Peringkat
+Ranking Rules,Aturan Pemeringkatan
+Recipients,Penerima
+Red,Merah
+Red-Green,Merah-Hijau
+Refresh,Segarkan
+Refresh Preview,Segarkan Pratinjau
+Refresh Stored Tables,Segarkan Tabel Tersimpan
+Refresh Tables,Segarkan Tabel
+Refreshing Tables,Tabel yang Menyegarkan
+Remove,Hapus
+Remove Sort,Hapus Sortir
+Reset Layout,Reset Tata Letak
+Reset Options,Atur Ulang Opsi
+Resolve Locations,Selesaikan Lokasi
+Resource,Sumber Daya
+Resource Type,Jenis Sumber Daya
+Result,Hasil
+Results,Hasil
+Results Row Count,Jumlah Baris Hasil
+Right,Benar
+Right Column,Kolom Kanan
+Right Table,Meja Kanan
+Row Size (KB),Ukuran Baris (KB)
+Rows,Baris
+Rows Imported,Baris Diimpor
+Rule Type,Jenis Aturan
+Run,Berlari
+SQL,SQL
+SQLite,SQLite
+Sample data and workbook have been set up successfully,Contoh data dan buku kerja telah berhasil disiapkan
+Sample data with workbook has been set up successfully,Contoh data dengan buku kerja telah berhasil disiapkan
+Saturday,Sabtu
+Save,Simpan
+Save Changes,Simpan Perubahan
+Save Variables,Simpan Variabel
+Schedule (Cron),Jadwal (Cron)
+Schema,Skema
+Script,Skrip
+Script Log,Log Skrip
+Search,Pencarian
+Search by Title,Cari berdasarkan Judul
+Search by name,Cari berdasarkan nama
+Secrets,Rahasia
+Select Charts,Pilih Bagan
+Select Columns,Pilih Kolom
+Select Columns to Add,Pilih Kolom untuk Ditambahkan
+Select Field,Pilih Bidang
+Select Join Type,Pilih Jenis Gabungan
+Select Source,Pilih Sumber
+Select Table,Pilih Tabel
+Select a column,Pilih kolom
+Select a data source,Pilih sumber data
+Select a table or query to start building your query,Pilih tabel atau kueri untuk mulai membuat kueri Anda
+Select an operation,Pilih operasi
+Select operator...,Pilih operator...
+Send Alert,Kirim Peringatan
+Send Invitation,Kirim Undangan
+Send Test Alert,Kirim Peringatan Tes
+Send alert when,Kirim peringatan kapan
+Sending Alert...,Mengirim Peringatan...
+Set Insights v2 as default,Tetapkan Wawasan v2 sebagai default
+Set up alerts to get notified when a condition is met,Atur peringatan untuk mendapat pemberitahuan ketika suatu kondisi terpenuhi
+Settings,Pengaturan
+Setup,Pengaturan
+Setup Alert,Peringatan Pengaturan
+Setup Complete,Pengaturan Selesai
+Setup Demo Data,Siapkan Data Demo
+Setup Failed,Pengaturan Gagal
+Share Chart,Bagikan Bagan
+Share Dashboard,Bagikan Dasbor
+Share Link,Bagikan Tautan
+Show or hide columns from the table,Menampilkan atau menyembunyikan kolom dari tabel
+Site Database,Basis Data Situs
+Sort Ascending,Urutkan Naik
+Sort Descending,Urutkan Turun
+Sort Order,Urutan Sortir
+Source,Sumber
+Specific people can view,Orang-orang tertentu dapat melihat
+Spreading column values into separate columns,Menyebarkan nilai kolom ke dalam kolom terpisah
+Started,Dimulai
+Started At,Dimulai Pada
+Starting...,Mulai...
+State (JSON),Negara Bagian (JSON)
+Status,Status
+Stored,Tersimpan
+String,Rangkaian
+Success,Keberhasilan
+Sum of...,Jumlah dari...
+Sunday,Minggu
+Switch to Desk,Beralih ke Meja
+Switch to Insights v2,Beralih ke Wawasan v2
+Sync tables from your data source to get started,Sinkronkan tabel dari sumber data Anda untuk memulai
+System Manager,Manajer sistem
+Table,Tabel
+Table Imported,Tabel Diimpor
+Table Label,Label Tabel
+Table Name,Nama Tabel
+Table Restrictions,Batasan Tabel
+Tables,Tabel
+Team,Tim
+Team Members,Anggota Tim
+Team Name,Nama Tim
+Team Permissions,Izin Tim
+Teams,Tim
+Telegram,Telegram
+Telegram API Token,Token API Telegram
+Telegram Chat ID,ID Obrolan Telegram
+Text,Teks
+Text Rules,Aturan Teks
+This FY,TA ini
+This Month,Bulan Ini
+This Quarter,Kuartal Ini
+This Week,Minggu Ini
+This Year,Tahun Ini
+Thursday,Kamis
+Time,Waktu
+Time Taken (Seconds),Waktu yang Dibutuhkan (Detik)
+Title,Judul
+Today,Hari ini
+Top,Atas
+Top N percent,N persen teratas
+Top N values,Nilai N teratas
+Transform,Mengubah
+Transforms,Berubah
+Transpose,Mengubah urutan
+Try demo data,Coba data demo
+Tuesday,Selasa
+Type,Tipe
+Unexpected validation error,Kesalahan validasi yang tidak terduga
+Unique Count of...,Hitungan Unik...
+Unpivot,Batalkan poros
+Update Alert,Perbarui Peringatan
+Update Tables,Perbarui Tabel
+Upload CSV or Excel,Unggah CSV atau Excel
+Upload CSV/Excel/JSON File,Unggah File CSV/Excel/JSON
+Upload Failed,Unggahan Gagal
+Upload a CSV or Excel file to create a new data source,Unggah file CSV atau Excel untuk membuat sumber data baru
+Use Custom Condition,Gunakan Kondisi Kustom
+Use Live Connection,Gunakan Koneksi Langsung
+Use SSL,Gunakan SSL
+Use secure connection (SSL)?,Gunakan koneksi aman (SSL)?
+User,Pengguna
+Username,Nama pengguna
+Users,Pengguna
+Validation failed,Validasi gagal
+Value,Nilai
+Value Rules,Aturan Nilai
+Variable Name,Nama Variabel
+Variable Value,Nilai Variabel
+Variables,Variabel
+Variables are used to store sensitive information such as API keys and credentials. They can be referenced and combined in your script just like any other variable. For eg.,Variabel digunakan untuk menyimpan informasi sensitif seperti kunci API dan kredensial. Mereka dapat direferensikan dan digabungkan dalam skrip Anda sama seperti variabel lainnya. Misalnya.
+Vertical,Vertikal
+Views,Tampilan
+Wednesday,Rabu
+Week Starts On,Minggu Dimulai
+Weekly,Mingguan
+Workbook,Buku Kerja
+Workbooks,Buku kerja
+World Map,Peta Dunia
+Yes,Ya
+You can use markdown to format the message. Use double asterisks (**) for bold text. You can use the following fields in the message:,Anda dapat menggunakan penurunan harga untuk memformat pesan. Gunakan tanda bintang ganda (**) untuk teks tebal. Anda dapat menggunakan kolom berikut dalam pesan:
+You do not have permission to access this resource,Anda tidak memiliki izin untuk mengakses sumber daya ini
+You do not have permission to modify this workbook,Anda tidak memiliki izin untuk mengubah buku kerja ini
+You do not have permission to share this workbook,Anda tidak memiliki izin untuk membagikan buku kerja ini
+Your workbooks will appear here. Create a new workbook to get started.,Buku kerja Anda akan muncul di sini. Buat buku kerja baru untuk memulai.
+after date,setelah tanggal
+asc,bertanya
+before date,sebelum tanggal
+between dates,antar tanggal
+chart,bagan
+contains,berisi
+desc,deskripsi
+does not contain,tidak mengandung
+does not equal,tidak sama
+e.g. 0 0 12 * * ?,misalnya 0 0 12 * * ?
+e.g. 123456789,misalnya 123456789
+e.g. Low Inventory,misalnya Persediaan Rendah
+e.g. api_key,misalnya api_key
+ends with,berakhir dengan
+equals,sama dengan
+folder,map
+greater than,lebih besar dari
+greater than or equals,lebih besar atau sama dengan
+is empty,kosong
+is last month,adalah bulan lalu
+is last week,adalah minggu lalu
+is not empty,tidak kosong
+is this month,adalah bulan ini
+is this week,adalah minggu ini
+is today,adalah hari ini
+is tomorrow,Apakah besok
+is yesterday,adalah kemarin
+less than,kurang dari
+less than or equals,kurang dari atau sama dengan
+not equals,tidak setara
+query,kueri
+sort_order,sort_order
+starts with,dimulai dengan
