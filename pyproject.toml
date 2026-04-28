@@ -1,7 +1,7 @@
 [project]
 name = "insights"
 authors = [
-    { name = "Powerful Reporting Tool for Frappe Apps", email = "hello@frappe.io"}
+    { name = "Aiconec GARP", email = "engineering@aiconec.com"}
 ]
 description = "Open Source Business Intelligence Tool"
 requires-python = ">=3.10"
