@@ -240,7 +240,7 @@ msgstr "Apakah Anda yakin ingin logout?"
 
 #: frontend/src2/components/UserDropdown.vue:81
 msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr "Apakah Anda yakin ingin masuk ke dasbor Frappe Cloud Anda?"
+msgstr "Apakah Anda yakin ingin masuk ke dasbor GARP Cloud Anda?"
 
 #. Label of the api_authentication_type (Select) field in DocType 'Insights
 #. Data Source v3'
@@ -1130,7 +1130,7 @@ msgstr "Memformat SQL"
 
 #: insights/config/desktop.py:11
 msgid "Frappe Insights"
-msgstr "Wawasan Frappe"
+msgstr "GARP Data Studio"
 
 #. Label of the frequency (Select) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:150
@@ -1542,7 +1542,7 @@ msgstr "Adalah Ekspresi"
 #. Label of the is_frappe_db (Check) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Is Frappe Database"
-msgstr "Adalah Basis Data Frappe"
+msgstr "Adalah Basis Data GARP"
 
 #. Label of the is_native_query (Check) field in DocType 'Insights Query'
 #. Label of the is_native_query (Check) field in DocType 'Insights Query v3'
@@ -1733,11 +1733,11 @@ msgstr "Keluar"
 
 #: frontend/src2/components/UserDropdown.vue:158
 msgid "Login to Frappe Cloud"
-msgstr "Masuk ke Frappe Cloud"
+msgstr "Masuk ke GARP Cloud"
 
 #: frontend/src2/components/UserDropdown.vue:80
 msgid "Login to Frappe Cloud?"
-msgstr "Masuk ke Frappe Cloud?"
+msgstr "Masuk ke GARP Cloud?"
 
 #: frontend/src2/query/components/ScriptQueryEditor.vue:82
 #: frontend/src2/query/components/ScriptQueryEditor.vue:113
