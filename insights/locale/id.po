@@ -21,30 +21,30 @@ msgstr ""
 #. Option for the 'Cardinality' (Select) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "1:1"
-msgstr ""
+msgstr "1:1"
 
 #. Option for the 'Cardinality' (Select) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "1:N"
-msgstr ""
+msgstr "1:N"
 
 #. Label of the api_configuration_section (Section Break) field in DocType
 #. 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "API Configuration"
-msgstr ""
+msgstr "Konfigurasi API"
 
 #. Option for the 'Authentication Type' (Select) field in DocType 'Insights
 #. Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "API Key / Bearer Token"
-msgstr ""
+msgstr "Kunci API / Token Pembawa"
 
 #. Label of the api_password (Password) field in DocType 'Insights Data Source
 #. v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "API Password"
-msgstr ""
+msgstr "Kata Sandi API"
 
 #. Label of the api_token (Password) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
@@ -54,11 +54,11 @@ msgstr "API Token"
 #. Label of the api_username (Data) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "API Username"
-msgstr ""
+msgstr "Nama Pengguna API"
 
 #: frontend/src2/query/components/FormatRule.vue:203
 msgid "Above average"
-msgstr ""
+msgstr "Di atas rata-rata"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights User Invitation'
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
@@ -73,7 +73,7 @@ msgstr "Diterima pada"
 
 #: frontend/src2/workbook/WorkbookList.vue:47
 msgid "Access"
-msgstr ""
+msgstr "Mengakses"
 
 #: frontend/src2/settings/Settings.vue:10
 msgid "Account"
@@ -82,7 +82,7 @@ msgstr "Akun"
 #. Label of the if_exists (Select) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
 msgid "Action if table exists"
-msgstr ""
+msgstr "Tindakan jika tabel ada"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Data Source'
 #. Option for the 'Status' (Select) field in DocType 'Insights Data Source v3'
@@ -100,7 +100,7 @@ msgstr "Tambahkan"
 #: frontend/src2/data_source/ConnectMariaDBDialog.vue:106
 #: frontend/src2/data_source/ConnectPostgreSQLDialog.vue:114
 msgid "Add Data Source"
-msgstr ""
+msgstr "Tambahkan Sumber Data"
 
 #: frontend/src2/query/components/FiltersSelector.vue:137
 msgid "Add Filter"
@@ -108,15 +108,15 @@ msgstr "Tambah Filter"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:62
 msgid "Add New Column"
-msgstr ""
+msgstr "Tambahkan Kolom Baru"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:132
 msgid "Add Operation"
-msgstr ""
+msgstr "Tambahkan Operasi"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:63
 msgid "Add a new column based on existing columns"
-msgstr ""
+msgstr "Tambahkan kolom baru berdasarkan kolom yang ada"
 
 #: frontend/src2/query/components/ColumnsSelectorDialog.vue:83
 #: frontend/src2/query/components/ColumnsSelectorDialog.vue:92
@@ -126,68 +126,68 @@ msgstr "Tambahkan kolom"
 #. Label of the aggregation (Data) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "Aggregation"
-msgstr ""
+msgstr "Pengumpulan"
 
 #. Label of the aggregation_condition (Code) field in DocType 'Insights Query
 #. Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "Aggregation Condition"
-msgstr ""
+msgstr "Kondisi Agregasi"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:70
 msgid "Alert Created"
-msgstr ""
+msgstr "Peringatan Dibuat"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:98
 msgid "Alert Disabled"
-msgstr ""
+msgstr "Peringatan Dinonaktifkan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:98
 msgid "Alert Enabled"
-msgstr ""
+msgstr "Peringatan Diaktifkan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:144
 msgid "Alert Name"
-msgstr ""
+msgstr "Nama Peringatan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:87
 msgid "Alert Sent"
-msgstr ""
+msgstr "Peringatan Terkirim"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:70
 msgid "Alert Updated"
-msgstr ""
+msgstr "Peringatan Diperbarui"
 
 #: insights/insights/doctype/insights_alert/insights_alert.js:12
 msgid "Alert sent"
-msgstr ""
+msgstr "Peringatan terkirim"
 
 #: frontend/src2/query/components/QueryAlertsDialog.vue:95
 msgid "Alerts"
-msgstr ""
+msgstr "Peringatan"
 
 #. Label of the allow_subquery (Check) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Allow Subquery"
-msgstr ""
+msgstr "Izinkan Subkueri"
 
 #. Label of the allow_imports (Check) field in DocType 'Insights Data Source'
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 msgid "Allow Table Import"
-msgstr ""
+msgstr "Izinkan Impor Tabel"
 
 #. Label of the allowed_origins (Data) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Allowed Origins"
-msgstr ""
+msgstr "Asal yang Diizinkan"
 
 #: frontend/src2/charts/components/FunnelChartConfigForm.vue:58
 msgid "Alternate"
-msgstr ""
+msgstr "Bergantian"
 
 #: frontend/src2/query/components/FormatRule.vue:161
 msgid "Amber"
-msgstr ""
+msgstr "Amber"
 
 #. Label of the amended_from (Link) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -196,29 +196,29 @@ msgstr "Diamendemen Dari"
 
 #: frontend/src2/dashboard/DashboardShareDialog.vue:110
 msgid "Anyone in the organization can view"
-msgstr ""
+msgstr "Siapa pun di organisasi dapat melihat"
 
 #: frontend/src2/dashboard/DashboardShareDialog.vue:106
 msgid "Anyone with the link can view"
-msgstr ""
+msgstr "Siapa pun yang memiliki tautan dapat melihatnya"
 
 #. Option for the 'Action if table exists' (Select) field in DocType 'Insights
 #. Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
 msgid "Append"
-msgstr ""
+msgstr "Menambahkan"
 
 #: frontend/src2/query/components/UnionSelectorDialog.vue:116
 msgid "Append Rows"
-msgstr ""
+msgstr "Tambahkan Baris"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:56
 msgid "Append Table"
-msgstr ""
+msgstr "Tambahkan Tabel"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:57
 msgid "Append this table with another table or query"
-msgstr ""
+msgstr "Tambahkan tabel ini dengan tabel atau kueri lain"
 
 #: frontend/src2/query/components/FiltersSelector.vue:145
 msgid "Apply Filters"
@@ -228,36 +228,36 @@ msgstr "Terapkan Filter"
 #. Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Apply User Permissions"
-msgstr ""
+msgstr "Terapkan Izin Pengguna"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:81
 msgid "Apply a custom operation using python script"
-msgstr ""
+msgstr "Terapkan operasi khusus menggunakan skrip python"
 
 #: frontend/src2/components/UserDropdown.vue:131
 msgid "Are you sure you want to log out?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin logout?"
 
 #: frontend/src2/components/UserDropdown.vue:81
 msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin masuk ke dasbor Frappe Cloud Anda?"
 
 #. Label of the api_authentication_type (Select) field in DocType 'Insights
 #. Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Authentication Type"
-msgstr ""
+msgstr "Jenis Otentikasi"
 
 #. Label of the auto_execute_query (Check) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Auto Execute Query"
-msgstr ""
+msgstr "Eksekusi Otomatis Kueri"
 
 #. Description of the 'Vertical Compact Layout' (Check) field in DocType
 #. 'Insights Dashboard v3'
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 msgid "Automatically arrange cards vertically to fill empty spaces"
-msgstr ""
+msgstr "Secara otomatis menyusun kartu secara vertikal untuk mengisi ruang kosong"
 
 #: frontend/src2/charts/components/MeasurePicker.vue:128
 msgid "Average of..."
@@ -272,7 +272,7 @@ msgstr "URL Dasar"
 #. Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Basic Authentication"
-msgstr ""
+msgstr "Otentikasi Dasar"
 
 #. Label of the batch_size (Int) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
@@ -283,41 +283,41 @@ msgstr "Ukuran Batch"
 #. v3'
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
 msgid "Before Import Script"
-msgstr ""
+msgstr "Sebelum Impor Skrip"
 
 #: frontend/src2/query/components/FormatRule.vue:204
 msgid "Below average"
-msgstr ""
+msgstr "Di bawah rata-rata"
 
 #. Option for the 'Database Type' (Select) field in DocType 'Insights Data
 #. Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "BigQuery"
-msgstr ""
+msgstr "Kueri Besar"
 
 #. Label of the bigquery_configuration_section (Section Break) field in DocType
 #. 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "BigQuery Configuration"
-msgstr ""
+msgstr "Konfigurasi BigQuery"
 
 #. Label of the bigquery_dataset_id (Data) field in DocType 'Insights Data
 #. Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "BigQuery Dataset ID"
-msgstr ""
+msgstr "ID Set Data BigQuery"
 
 #. Label of the bigquery_project_id (Data) field in DocType 'Insights Data
 #. Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "BigQuery Project ID"
-msgstr ""
+msgstr "ID Proyek BigQuery"
 
 #. Label of the bigquery_service_account_key (JSON) field in DocType 'Insights
 #. Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "BigQuery Service Account Key (JSON)"
-msgstr ""
+msgstr "Kunci Akun Layanan BigQuery (JSON)"
 
 #: frontend/src2/charts/components/DonutChartConfigForm.vue:58
 msgid "Bottom"
@@ -325,11 +325,11 @@ msgstr "Bawah"
 
 #: frontend/src2/query/components/FormatRule.vue:202
 msgid "Bottom N percent"
-msgstr ""
+msgstr "N persen terbawah"
 
 #: frontend/src2/query/components/FormatRule.vue:200
 msgid "Bottom N values"
-msgstr ""
+msgstr "Nilai N terbawah"
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:10
 msgid "Bulk Enqueue"
@@ -337,33 +337,33 @@ msgstr ""
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:49
 msgid "Bulk Enqueue Import Job"
-msgstr ""
+msgstr "Pekerjaan Impor Enqueue Massal"
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:24
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:34
 msgid "Bulk Enqueue Progress"
-msgstr ""
+msgstr "Kemajuan Entri Massal"
 
 #: frontend/src2/components/ExportDialog.vue:46
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #. Label of the query_result_expiry (Int) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Cache Query Results For (Minutes)"
-msgstr ""
+msgstr "Hasil Kueri Cache Untuk (Menit)"
 
 #: frontend/src2/workbook/WorkbookShareDialog.vue:29
 #: frontend/src2/workbook/WorkbookShareDialog.vue:128
 #: frontend/src2/workbook/WorkbookShareDialog.vue:183
 msgid "Can Edit"
-msgstr ""
+msgstr "Dapat Mengedit"
 
 #: frontend/src2/workbook/WorkbookShareDialog.vue:34
 #: frontend/src2/workbook/WorkbookShareDialog.vue:124
 #: frontend/src2/workbook/WorkbookShareDialog.vue:183
 msgid "Can View"
-msgstr ""
+msgstr "Dapat Melihat"
 
 #: frontend/src2/charts/components/RegionMappingDialog.vue:312
 #: frontend/src2/components/ExportDialog.vue:77
@@ -379,7 +379,7 @@ msgstr "Batalkan"
 #. Label of the cardinality (Select) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Cardinality"
-msgstr ""
+msgstr "Kardinalitas"
 
 #. Label of the channel (Select) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:171
@@ -411,19 +411,19 @@ msgstr ""
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:156
 msgid "Check once a month"
-msgstr ""
+msgstr "Periksa sebulan sekali"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:155
 msgid "Check once a week"
-msgstr ""
+msgstr "Periksa seminggu sekali"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:153
 msgid "Check once an hour"
-msgstr ""
+msgstr "Periksa satu jam sekali"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:38
 msgid "Choose Columns"
-msgstr ""
+msgstr "Pilih Kolom"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:241
 #: frontend/src2/query/components/FiltersSelector.vue:143
@@ -435,7 +435,7 @@ msgstr "Bersih"
 #: frontend/src2/data_source/DataSourceList.vue:58
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "ClickHouse"
-msgstr ""
+msgstr "Klik Rumah"
 
 #: frontend/src2/query/components/source_selector/SourceSelectorDialog.vue:130
 msgid "Close"
@@ -451,7 +451,7 @@ msgstr "Warna"
 
 #: frontend/src2/query/components/FormattingSelector.vue:60
 msgid "Color Scale"
-msgstr ""
+msgstr "Skala Warna"
 
 #. Label of the label (Data) field in DocType 'Insights Query Column'
 #. Label of the column (Data) field in DocType 'Insights Table Column'
@@ -478,11 +478,11 @@ msgstr "Kolom"
 #. Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Comma seperated URLs to whitelist for embedding charts & dashboards"
-msgstr ""
+msgstr "URL yang dipisahkan koma ke daftar putih untuk menyematkan bagan & dasbor"
 
 #: frontend/src2/dashboard/DashboardBuilder.vue:151
 msgid "Compact Layout"
-msgstr ""
+msgstr "Tata Letak Kompak"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import
 #. Log'
@@ -520,39 +520,39 @@ msgstr "Menegaskan"
 #: frontend/src2/data_source/ConnectMariaDBDialog.vue:77
 #: frontend/src2/data_source/ConnectPostgreSQLDialog.vue:85
 msgid "Connect"
-msgstr ""
+msgstr "Menghubungkan"
 
 #: frontend/src2/data_source/ConnectClickhouseDialog.vue:120
 msgid "Connect to ClickHouse"
-msgstr ""
+msgstr "Hubungkan ke ClickHouse"
 
 #: frontend/src2/data_source/DataSourceList.vue:60
 msgid "Connect to ClickHouse database"
-msgstr ""
+msgstr "Hubungkan ke basis data ClickHouse"
 
 #: frontend/src2/data_source/ConnectDuckDBDialog.vue:95
 msgid "Connect to DuckDB"
-msgstr ""
+msgstr "Hubungkan ke DuckDB"
 
 #: frontend/src2/data_source/DataSourceList.vue:69
 msgid "Connect to DuckDB database"
-msgstr ""
+msgstr "Hubungkan ke basis data DuckDB"
 
 #: frontend/src2/data_source/ConnectMariaDBDialog.vue:120
 msgid "Connect to MariaDB"
-msgstr ""
+msgstr "Hubungkan ke MariaDB"
 
 #: frontend/src2/data_source/DataSourceList.vue:42
 msgid "Connect to MariaDB database"
-msgstr ""
+msgstr "Hubungkan ke basis data MariaDB"
 
 #: frontend/src2/data_source/ConnectPostgreSQLDialog.vue:128
 msgid "Connect to PostgreSQL"
-msgstr ""
+msgstr "Hubungkan ke PostgreSQL"
 
 #: frontend/src2/data_source/DataSourceList.vue:51
 msgid "Connect to PostgreSQL database"
-msgstr ""
+msgstr "Hubungkan ke basis data PostgreSQL"
 
 #. Label of the connection_string (Small Text) field in DocType 'Insights Data
 #. Source'
@@ -561,7 +561,7 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Connection String"
-msgstr ""
+msgstr "Rangkaian Koneksi"
 
 #. Label of the content (Code) field in DocType 'Insights Notebook Page'
 #: frontend/src2/dashboard/DashboardText.vue:45
@@ -580,15 +580,15 @@ msgstr ""
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:50
 #: frontend/src2/workbook/WorkbookNavbarActions.vue:59
 msgid "Copy JSON"
-msgstr ""
+msgstr "Salin JSON"
 
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:37
 msgid "Copy Query"
-msgstr ""
+msgstr "Salin Kueri"
 
 #: frontend/src2/charts/components/MeasurePicker.vue:126
 msgid "Count of..."
-msgstr ""
+msgstr "Hitungan..."
 
 #: frontend/src2/teams/CreateTeamDialog.vue:18
 msgid "Create"
@@ -596,21 +596,21 @@ msgstr "Buat"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:129
 msgid "Create Alert"
-msgstr ""
+msgstr "Buat Peringatan"
 
 #: frontend/src2/charts/components/NewMeasureSelectorDialog.vue:97
 msgid "Create Measure"
-msgstr ""
+msgstr "Buat Ukuran"
 
 #: frontend/src2/settings/PermissionsSettings.vue:67
 #: frontend/src2/teams/CreateTeamDialog.vue:15
 #: frontend/src2/teams/TeamList.vue:65
 msgid "Create Team"
-msgstr ""
+msgstr "Buat Tim"
 
 #: frontend/src2/dashboard/DashboardList.vue:96
 msgid "Create a dashboard in your workbook to view it here."
-msgstr ""
+msgstr "Buat dasbor di buku kerja Anda untuk melihatnya di sini."
 
 #: frontend/src2/data_source/DataSourceList.vue:119
 msgid "Created"
@@ -622,14 +622,14 @@ msgstr "Dibuat Oleh"
 
 #: frontend/src2/teams/TeamList.vue:48
 msgid "Creation"
-msgstr ""
+msgstr "Penciptaan"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:157
 #: frontend/src2/query/components/AlertSetupDialog.vue:163
 #: insights/insights/doctype/insights_alert/insights_alert.json
 msgid "Cron"
-msgstr ""
+msgstr "Kron"
 
 #. Label of the cron_format (Data) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -640,37 +640,37 @@ msgstr "Format Cron"
 #. Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Cron expression to schedule the script. Note: The scheduler checks for jobs every hour."
-msgstr ""
+msgstr "Ekspresi cron untuk menjadwalkan skrip. Catatan: Penjadwal memeriksa pekerjaan setiap jam."
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Query Transform'
 #: insights/insights/doctype/insights_query_transform/insights_query_transform.json
 msgid "CumulativeSum"
-msgstr ""
+msgstr "Jumlah Kumulatif"
 
 #. Label of the custom_condition (Check) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
 msgid "Custom Condition"
-msgstr ""
+msgstr "Kondisi Kustom"
 
 #. Label of the api_custom_headers (JSON) field in DocType 'Insights Data
 #. Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Custom Headers"
-msgstr ""
+msgstr "Header Kustom"
 
 #: frontend/src2/query/components/JoinSelectorDialog.vue:316
 msgid "Custom Join Condition"
-msgstr ""
+msgstr "Kondisi Gabung Khusus"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:80
 msgid "Custom Operation"
-msgstr ""
+msgstr "Operasi Kustom"
 
 #. Description of the 'Custom Headers' (JSON) field in DocType 'Insights Data
 #. Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Custom headers for API requests (non-sensitive data only)"
-msgstr ""
+msgstr "Header khusus untuk permintaan API (hanya data non-sensitif)"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -679,7 +679,7 @@ msgstr "Sehari-hari"
 
 #: frontend/src2/dashboard/DashboardShareDialog.vue:48
 msgid "Dashboard Access Updated"
-msgstr ""
+msgstr "Akses Dasbor Diperbarui"
 
 #: frontend/src2/components/AppSidebar.vue:74
 #: frontend/src2/dashboard/Dashboard.vue:46
@@ -690,12 +690,12 @@ msgstr "Dasbor"
 #. Label of the data_backup (JSON) field in DocType 'Insights Workbook'
 #: insights/insights/doctype/insights_workbook/insights_workbook.json
 msgid "Data Backup"
-msgstr ""
+msgstr "Cadangan Data"
 
 #. Label of the data_query (Link) field in DocType 'Insights Chart v3'
 #: insights/insights/doctype/insights_chart_v3/insights_chart_v3.json
 msgid "Data Query"
-msgstr ""
+msgstr "Kueri Data"
 
 #. Label of the data_source (Link) field in DocType 'Insights Query'
 #. Label of the data_source (Data) field in DocType 'Insights Query Execution
@@ -717,33 +717,33 @@ msgstr ""
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
 msgid "Data Source"
-msgstr ""
+msgstr "Sumber Data"
 
 #: frontend/src2/components/AppSidebar.vue:84
 #: frontend/src2/data_source/DataSourceList.vue:146
 #: frontend/src2/data_source/DataSourceTable.vue:25
 #: frontend/src2/data_source/DataSourceTableList.vue:65
 msgid "Data Sources"
-msgstr ""
+msgstr "Sumber Data"
 
 #: frontend/src2/data_source/DataSourceList.vue:141
 msgid "Data Sources | Insights"
-msgstr ""
+msgstr "Sumber Data | Wawasan"
 
 #: frontend/src2/components/AppSidebar.vue:89
 #: frontend/src2/data_store/DataStoreList.vue:75
 #: frontend/src2/settings/Settings.vue:43
 msgid "Data Store"
-msgstr ""
+msgstr "Penyimpanan Data"
 
 #: frontend/src2/charts/components/NewMeasureSelectorDialog.vue:120
 msgid "Data Type"
-msgstr ""
+msgstr "Tipe Data"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Database"
-msgstr ""
+msgstr "Basis data"
 
 #. Label of the database_name (Data) field in DocType 'Insights Data Source'
 #. Label of the database_name (Data) field in DocType 'Insights Data Source v3'
@@ -753,7 +753,7 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Database Name"
-msgstr ""
+msgstr "Nama Basis Data"
 
 #. Label of the database_type (Select) field in DocType 'Insights Data Source'
 #. Label of the database_type (Select) field in DocType 'Insights Data Source
@@ -761,7 +761,7 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Database Type"
-msgstr ""
+msgstr "Tipe Basis Data"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
@@ -770,7 +770,7 @@ msgstr "Tanggal"
 
 #: frontend/src2/query/components/FormatRule.vue:234
 msgid "Date Rules"
-msgstr ""
+msgstr "Aturan Tanggal"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
@@ -780,7 +780,7 @@ msgstr "Tanggal dan Waktu"
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 msgid "Decimal"
-msgstr ""
+msgstr "Desimal"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:234
 msgid "Default Value"
@@ -794,11 +794,11 @@ msgstr "Hapus"
 #: frontend/src2/components/DemoDataBanner.vue:26
 #: frontend/src2/settings/GeneralSettings.vue:22
 msgid "Demo Data Ready"
-msgstr ""
+msgstr "Data Demo Siap"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:123
 msgid "Disable Alert"
-msgstr ""
+msgstr "Nonaktifkan Peringatan"
 
 #. Label of the disabled (Check) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/QueryAlertsDialog.vue:44
@@ -827,18 +827,18 @@ msgstr "Draf"
 
 #: frontend/src2/charts/components/DrillDown.vue:59
 msgid "Drill Down"
-msgstr ""
+msgstr "Telusuri"
 
 #: frontend/src2/query/components/UnionSelectorDialog.vue:139
 msgid "Drop Duplicates"
-msgstr ""
+msgstr "Jatuhkan Duplikat"
 
 #. Option for the 'Database Type' (Select) field in DocType 'Insights Data
 #. Source v3'
 #: frontend/src2/data_source/DataSourceList.vue:67
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "DuckDB"
-msgstr ""
+msgstr "BebekDB"
 
 #: frontend/src2/query/components/FiltersSelector.vue:120
 #: frontend/src2/workbook/WorkbookNavbarActions.vue:53
@@ -847,16 +847,16 @@ msgstr "Duplikat"
 
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:39
 msgid "Duplicate Chart"
-msgstr ""
+msgstr "Bagan Duplikat"
 
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:32
 msgid "Duplicate Query"
-msgstr ""
+msgstr "Kueri Duplikat"
 
 #. Label of the time_taken (Int) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Duration (Seconds)"
-msgstr ""
+msgstr "Durasi (Detik)"
 
 #: frontend/src2/dashboard/DashboardItemActions.vue:14
 msgid "Edit"
@@ -864,11 +864,11 @@ msgstr "Sunting"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:152
 msgid "Edit Filter"
-msgstr ""
+msgstr "Sunting Filter"
 
 #: frontend/src2/dashboard/DashboardText.vue:24
 msgid "Edit Text"
-msgstr ""
+msgstr "Sunting Teks"
 
 #. Option for the 'Channel' (Select) field in DocType 'Insights Alert'
 #. Label of the email (Data) field in DocType 'Insights User Invitation'
@@ -884,31 +884,31 @@ msgstr "Surel"
 #. Invitation'
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
 msgid "Email Sent At"
-msgstr ""
+msgstr "Email Dikirim Pada"
 
 #: frontend/src2/query/components/FiltersSelector.vue:134
 msgid "Empty - Click 'Add Filter' to add a filter"
-msgstr ""
+msgstr "Kosong - Klik 'Tambahkan Filter' untuk menambahkan filter"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:123
 msgid "Enable Alert"
-msgstr ""
+msgstr "Aktifkan Peringatan"
 
 #. Label of the enable_data_store (Check) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Enable Data Store"
-msgstr ""
+msgstr "Aktifkan Penyimpanan Data"
 
 #. Label of the enable_permissions (Check) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Enable Permissions"
-msgstr ""
+msgstr "Aktifkan Izin"
 
 #. Label of the enable_stored_procedure_execution (Check) field in DocType
 #. 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Enable Stored Procedure Execution"
-msgstr ""
+msgstr "Aktifkan Eksekusi Prosedur Tersimpan"
 
 #. Label of the enabled (Check) field in DocType 'Insights Table Import Job'
 #: frontend/src2/query/components/QueryAlertsDialog.vue:44
@@ -926,27 +926,27 @@ msgstr "Selesai pada"
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:6
 msgid "Enqueue"
-msgstr ""
+msgstr "Entri"
 
 #: frontend/src2/components/ExportDialog.vue:60
 msgid "Enter filename"
-msgstr ""
+msgstr "Masukkan nama file"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:177
 msgid "Enter filter label..."
-msgstr ""
+msgstr "Masukkan label filter..."
 
 #: frontend/src2/query/components/FormatRule.vue:443
 msgid "Enter text"
-msgstr ""
+msgstr "Masukkan teks"
 
 #: frontend/src2/data_source/ConnectDuckDBDialog.vue:33
 msgid "Enter the URL of the DuckDB file"
-msgstr ""
+msgstr "Masukkan URL file DuckDB"
 
 #: frontend/src2/dashboard/DashboardText.vue:52
 msgid "Enter your text content here..."
-msgstr ""
+msgstr "Masukkan konten teks Anda di sini..."
 
 #. Label of the error (Text) field in DocType 'Insights Table Import'
 #. Label of the error (Code) field in DocType 'Insights Table Import Log'
@@ -957,7 +957,7 @@ msgstr "Kesalahan"
 
 #: frontend/src2/components/ExportDialog.vue:47
 msgid "Excel"
-msgstr ""
+msgstr "Unggul"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:134
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:69
@@ -967,17 +967,17 @@ msgstr "Menjalankan"
 #. Option for the 'Status' (Select) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Execution Failed"
-msgstr ""
+msgstr "Eksekusi Gagal"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Execution Successful"
-msgstr ""
+msgstr "Eksekusi Berhasil"
 
 #. Label of the execution_time (Float) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Execution Time (seconds)"
-msgstr ""
+msgstr "Waktu Eksekusi (detik)"
 
 #: frontend/src2/components/AppSidebar.vue:26
 msgid "Expand"
@@ -998,12 +998,12 @@ msgstr "Ekspor Data"
 
 #: frontend/src2/components/ExportDialog.vue:44
 msgid "Export Format"
-msgstr ""
+msgstr "Format Ekspor"
 
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:27
 #: frontend/src2/dashboard/Dashboard.vue:61
 msgid "Export as PNG"
-msgstr ""
+msgstr "Ekspor sebagai PNG"
 
 #. Label of the expression (JSON) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
@@ -1026,30 +1026,30 @@ msgstr "Gagal"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:52
 msgid "Failed to format SQL"
-msgstr ""
+msgstr "Gagal memformat SQL"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:72
 msgid "Failed to import table"
-msgstr ""
+msgstr "Gagal mengimpor tabel"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:38
 msgid "Failed to process uploaded file"
-msgstr ""
+msgstr "Gagal memproses file yang diunggah"
 
 #: frontend/src2/components/DemoDataBanner.vue:33
 #: frontend/src2/settings/GeneralSettings.vue:29
 msgid "Failed to setup demo data"
-msgstr ""
+msgstr "Gagal menyiapkan data demo"
 
 #: frontend/src2/dashboard/DashboardList.vue:61
 msgid "Favorites"
-msgstr ""
+msgstr "Favorit"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:158
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:57
 #: frontend/src2/query/components/ScriptQueryEditor.vue:128
 msgid "Fetched from cache"
-msgstr ""
+msgstr "Diambil dari cache"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:161
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:60
@@ -1063,23 +1063,23 @@ msgstr "URL File"
 
 #: frontend/src2/components/ExportDialog.vue:58
 msgid "Filename"
-msgstr ""
+msgstr "Nama file"
 
 #: frontend/src2/query/components/FiltersSelectorDialog.vue:21
 msgid "Filter"
-msgstr ""
+msgstr "Menyaring"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:224
 msgid "Filter Icon"
-msgstr ""
+msgstr "Ikon Penyaring"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:44
 msgid "Filter Rows"
-msgstr ""
+msgstr "Filter Baris"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:45
 msgid "Filter rows based on columns or expressions"
-msgstr ""
+msgstr "Filter baris berdasarkan kolom atau ekspresi"
 
 #. Label of the filters (JSON) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
@@ -1089,48 +1089,48 @@ msgstr "Filter"
 #. Label of the fiscal_year_start (Date) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Fiscal Year Start"
-msgstr ""
+msgstr "Awal Tahun Anggaran"
 
 #: insights/api/workbooks.py:241
 msgid "Folder and item must belong to the same workbook"
-msgstr ""
+msgstr "Folder dan item harus berada dalam buku kerja yang sama"
 
 #: frontend/src2/dashboard/DashboardBuilder.vue:145
 msgid "Force Refresh"
-msgstr ""
+msgstr "Paksa Penyegaran"
 
 #: frontend/src2/query/components/ScriptQueryEditor.vue:103
 msgid "Force Run"
-msgstr ""
+msgstr "Paksa Jalankan"
 
 #. Label of the foreign_key (Data) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Foreign Key"
-msgstr ""
+msgstr "Kunci Asing"
 
 #. Label of the foreign_table (Data) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Foreign Table"
-msgstr ""
+msgstr "Meja Asing"
 
 #. Label of the foreign_table_label (Data) field in DocType 'Insights Table
 #. Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Foreign Table Label"
-msgstr ""
+msgstr "Label Tabel Asing"
 
 #. Label of the format_option (Code) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "Format Option"
-msgstr ""
+msgstr "Opsi Format"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:143
 msgid "Format SQL"
-msgstr ""
+msgstr "Memformat SQL"
 
 #: insights/config/desktop.py:11
 msgid "Frappe Insights"
-msgstr ""
+msgstr "Wawasan Frappe"
 
 #. Label of the frequency (Select) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:150
@@ -1150,7 +1150,7 @@ msgstr "Umum"
 
 #: frontend/src2/query/components/ViewSQLDialog.vue:16
 msgid "Generated SQL"
-msgstr ""
+msgstr "SQL yang dihasilkan"
 
 #: frontend/src2/query/components/FormatRule.vue:160
 msgid "Green"
@@ -1158,20 +1158,20 @@ msgstr "Hijau"
 
 #: frontend/src2/query/components/FormatRule.vue:213
 msgid "Green-Red"
-msgstr ""
+msgstr "Hijau-Merah"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:68
 msgid "Group & Summarize"
-msgstr ""
+msgstr "Kelompokkan & Ringkas"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:69
 msgid "Group rows by columns and summarize the data"
-msgstr ""
+msgstr "Kelompokkan baris demi kolom dan rangkum datanya"
 
 #. Label of the http_headers (JSON) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "HTTP Headers"
-msgstr ""
+msgstr "Header HTTP"
 
 #. Label of the hidden (Check) field in DocType 'Insights Table'
 #: insights/insights/doctype/insights_table/insights_table.json
@@ -1180,11 +1180,11 @@ msgstr "Tersembunyi"
 
 #: frontend/src2/query/components/FormattingSelector.vue:59
 msgid "Highlight Cell"
-msgstr ""
+msgstr "Sorot Sel"
 
 #: frontend/src2/charts/components/SankeyChartConfigForm.vue:60
 msgid "Horizontal"
-msgstr ""
+msgstr "Horisontal"
 
 #. Label of the host (Data) field in DocType 'Insights Data Source'
 #. Label of the host (Data) field in DocType 'Insights Data Source v3'
@@ -1194,7 +1194,7 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Host"
-msgstr ""
+msgstr "Tuan rumah"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -1204,7 +1204,7 @@ msgstr "Setiap Jam"
 #. Label of the item_id (Data) field in DocType 'Insights Dashboard Item'
 #: insights/insights/doctype/insights_dashboard_item/insights_dashboard_item.json
 msgid "ID"
-msgstr ""
+msgstr "PENGENAL"
 
 #: frontend/src2/data_store/ImportTableDialog.vue:93
 msgid "Import"
@@ -1212,32 +1212,32 @@ msgstr "Impor"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:71
 msgid "Import Failed"
-msgstr ""
+msgstr "Impor Gagal"
 
 #. Label of the import_job (Link) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Import Job"
-msgstr ""
+msgstr "Impor Pekerjaan"
 
 #. Label of the query (Code) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Import Query"
-msgstr ""
+msgstr "Impor Kueri"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:96
 #: frontend/src2/data_store/DataStoreList.vue:61
 #: frontend/src2/data_store/DataStoreList.vue:79
 #: frontend/src2/data_store/ImportTableDialog.vue:59
 msgid "Import Table"
-msgstr ""
+msgstr "Tabel Impor"
 
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.js:9
 msgid "Import job has been queued"
-msgstr ""
+msgstr "Pekerjaan impor telah dimasukkan dalam antrean"
 
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.js:7
 msgid "Import to Warehouse"
-msgstr ""
+msgstr "Impor ke Gudang"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import
 #. Log'
@@ -1254,7 +1254,7 @@ msgstr "Tidak aktif"
 
 #: frontend/src2/charts/components/MapChartConfigForm.vue:55
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #. Name of a role
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -1273,177 +1273,177 @@ msgstr ""
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
 #: insights/insights/doctype/insights_workbook/insights_workbook.json
 msgid "Insights Admin"
-msgstr ""
+msgstr "Admin Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_alert/insights_alert.json
 msgid "Insights Alert"
-msgstr ""
+msgstr "Peringatan Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_chart/insights_chart.json
 msgid "Insights Chart"
-msgstr ""
+msgstr "Bagan Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_chart_v3/insights_chart_v3.json
 msgid "Insights Chart v3"
-msgstr ""
+msgstr "Bagan Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_dashboard/insights_dashboard.json
 msgid "Insights Dashboard"
-msgstr ""
+msgstr "Dasbor Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_dashboard_chart_v3/insights_dashboard_chart_v3.json
 msgid "Insights Dashboard Chart v3"
-msgstr ""
+msgstr "Bagan Dasbor Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_dashboard_item/insights_dashboard_item.json
 msgid "Insights Dashboard Item"
-msgstr ""
+msgstr "Item Dasbor Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 msgid "Insights Dashboard v3"
-msgstr ""
+msgstr "Dasbor Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 msgid "Insights Data Source"
-msgstr ""
+msgstr "Sumber Data Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Insights Data Source v3"
-msgstr ""
+msgstr "Sumber Data Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_folder/insights_folder.json
 msgid "Insights Folder"
-msgstr ""
+msgstr "Folder Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_notebook/insights_notebook.json
 msgid "Insights Notebook"
-msgstr ""
+msgstr "Buku Catatan Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_notebook_page/insights_notebook_page.json
 msgid "Insights Notebook Page"
-msgstr ""
+msgstr "Halaman Buku Catatan Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Insights Query"
-msgstr ""
+msgstr "Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_chart/insights_query_chart.json
 msgid "Insights Query Chart"
-msgstr ""
+msgstr "Bagan Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "Insights Query Column"
-msgstr ""
+msgstr "Kolom Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_execution_log/insights_query_execution_log.json
 msgid "Insights Query Execution Log"
-msgstr ""
+msgstr "Log Eksekusi Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_result/insights_query_result.json
 msgid "Insights Query Result"
-msgstr ""
+msgstr "Hasil Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_table/insights_query_table.json
 msgid "Insights Query Table"
-msgstr ""
+msgstr "Tabel Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_transform/insights_query_transform.json
 msgid "Insights Query Transform"
-msgstr ""
+msgstr "Transformasi Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_variable/insights_query_variable.json
 msgid "Insights Query Variable"
-msgstr ""
+msgstr "Variabel Kueri Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Insights Query v3"
-msgstr ""
+msgstr "Kueri Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_resource_permission/insights_resource_permission.json
 msgid "Insights Resource Permission"
-msgstr ""
+msgstr "Izin Sumber Daya Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_secret_key/insights_secret_key.json
 msgid "Insights Secret Key"
-msgstr ""
+msgstr "Kunci Rahasia Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Insights Settings"
-msgstr ""
+msgstr "Pengaturan Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table/insights_table.json
 msgid "Insights Table"
-msgstr ""
+msgstr "Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 msgid "Insights Table Column"
-msgstr ""
+msgstr "Kolom Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
 msgid "Insights Table Import"
-msgstr ""
+msgstr "Impor Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Insights Table Import Job"
-msgstr ""
+msgstr "Pekerjaan Impor Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Insights Table Import Log"
-msgstr ""
+msgstr "Log Impor Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Insights Table Link"
-msgstr ""
+msgstr "Tautan Tabel Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 msgid "Insights Table Link v3"
-msgstr ""
+msgstr "Tautan Tabel Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
 msgid "Insights Table v3"
-msgstr ""
+msgstr "Tabel Wawasan v3"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_team/insights_team.json
 msgid "Insights Team"
-msgstr ""
+msgstr "Tim Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_team_member/insights_team_member.json
 msgid "Insights Team Member"
-msgstr ""
+msgstr "Anggota Tim Wawasan"
 
 #. Name of a role
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -1470,22 +1470,22 @@ msgstr ""
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
 #: insights/insights/doctype/insights_workbook/insights_workbook.json
 msgid "Insights User"
-msgstr ""
+msgstr "Pengguna Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
 msgid "Insights User Invitation"
-msgstr ""
+msgstr "Undangan Pengguna Wawasan"
 
 #. Name of a DocType
 #: insights/insights/doctype/insights_workbook/insights_workbook.json
 msgid "Insights Workbook"
-msgstr ""
+msgstr "Buku Kerja Wawasan"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 msgid "Integer"
-msgstr ""
+msgstr "Bilangan bulat"
 
 #. Label of the integrations_section (Section Break) field in DocType 'Insights
 #. Settings'
@@ -1496,12 +1496,12 @@ msgstr "Integrasi"
 #: frontend/src2/settings/UsersSettings.vue:44
 #: frontend/src2/users/UserList.vue:44
 msgid "Invitation Expired"
-msgstr ""
+msgstr "Undangan Kedaluwarsa"
 
 #: frontend/src2/settings/UsersSettings.vue:43
 #: frontend/src2/users/UserList.vue:43
 msgid "Invitation Sent"
-msgstr ""
+msgstr "Undangan Terkirim"
 
 #: frontend/src2/settings/UsersSettings.vue:85
 #: frontend/src2/settings/UsersSettings.vue:173
@@ -1517,39 +1517,39 @@ msgstr "Diundang Sebagai"
 #. Label of the is_assisted_query (Check) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Is Assisted Query"
-msgstr ""
+msgstr "Adalah Kueri Berbantuan"
 
 #. Label of the is_builder_query (Check) field in DocType 'Insights Query v3'
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Is Builder Query"
-msgstr ""
+msgstr "Adalah Kueri Pembuat"
 
 #. Label of the is_ducklake (Check) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Is DuckLake"
-msgstr ""
+msgstr "Apakah DuckLake"
 
 #. Label of the is_expanded (Check) field in DocType 'Insights Folder'
 #: insights/insights/doctype/insights_folder/insights_folder.json
 msgid "Is Expanded"
-msgstr ""
+msgstr "Diperluas"
 
 #. Label of the is_expression (Check) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "Is Expression"
-msgstr ""
+msgstr "Adalah Ekspresi"
 
 #. Label of the is_frappe_db (Check) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Is Frappe Database"
-msgstr ""
+msgstr "Adalah Basis Data Frappe"
 
 #. Label of the is_native_query (Check) field in DocType 'Insights Query'
 #. Label of the is_native_query (Check) field in DocType 'Insights Query v3'
 #: insights/insights/doctype/insights_query/insights_query.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Is Native Query"
-msgstr ""
+msgstr "Apakah Kueri Asli"
 
 #. Label of the is_public (Check) field in DocType 'Insights Chart'
 #. Label of the is_public (Check) field in DocType 'Insights Chart v3'
@@ -1565,24 +1565,24 @@ msgstr "Publik"
 #. Label of the is_query_based (Check) field in DocType 'Insights Table'
 #: insights/insights/doctype/insights_table/insights_table.json
 msgid "Is Query Based"
-msgstr ""
+msgstr "Berbasis Kueri"
 
 #. Label of the is_saved_as_table (Check) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Is Saved as Table"
-msgstr ""
+msgstr "Disimpan sebagai Tabel"
 
 #. Label of the is_script_query (Check) field in DocType 'Insights Query'
 #. Label of the is_script_query (Check) field in DocType 'Insights Query v3'
 #: insights/insights/doctype/insights_query/insights_query.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Is Script Query"
-msgstr ""
+msgstr "Apakah Permintaan Skrip"
 
 #. Label of the is_site_db (Check) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Is Site Database"
-msgstr ""
+msgstr "Adalah Basis Data Situs"
 
 #. Label of the items (Table) field in DocType 'Insights Dashboard'
 #. Label of the items (JSON) field in DocType 'Insights Dashboard v3'
@@ -1594,29 +1594,29 @@ msgstr "Item"
 #. Label of the json (Code) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #. Label of the join (Code) field in DocType 'Insights Query Table'
 #: insights/insights/doctype/insights_query_table/insights_query_table.json
 msgid "Join"
-msgstr ""
+msgstr "Bergabung"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:50
 #: frontend/src2/query/components/JoinSelectorDialog.vue:251
 msgid "Join Table"
-msgstr ""
+msgstr "Bergabunglah dengan Tabel"
 
 #: frontend/src2/components/UserDropdown.vue:121
 msgid "Join Telegram Group"
-msgstr ""
+msgstr "Bergabunglah dengan Grup Telegram"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:51
 msgid "Join this table with another table or query"
-msgstr ""
+msgstr "Gabungkan tabel ini dengan tabel atau kueri lain"
 
 #: frontend/src2/charts/components/SankeyChartConfigForm.vue:69
 msgid "Justify"
-msgstr ""
+msgstr "Membenarkan"
 
 #. Label of the key (Data) field in DocType 'Insights Secret Key'
 #. Label of the key (Data) field in DocType 'Insights User Invitation'
@@ -1635,7 +1635,7 @@ msgstr "Kunci"
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
 msgid "Label"
-msgstr ""
+msgstr "Label"
 
 #: frontend/src2/users/UserList.vue:65
 msgid "Last Active"
@@ -1644,7 +1644,7 @@ msgstr "Terakhir Aktif"
 #. Label of the last_execution (Datetime) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Last Executed On"
-msgstr ""
+msgstr "Terakhir Dieksekusi Pada"
 
 #. Label of the last_execution (Datetime) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/QueryAlertsDialog.vue:56
@@ -1655,7 +1655,7 @@ msgstr "Eksekusi Terakhir"
 #. Label of the last_log (Link) field in DocType 'Insights Table Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Last Log"
-msgstr ""
+msgstr "Catatan Terakhir"
 
 #. Label of the last_run (Datetime) field in DocType 'Insights Table Import
 #. Job'
@@ -1666,11 +1666,11 @@ msgstr "Terakhir Dijalankan"
 #. Label of the last_status (Data) field in DocType 'Insights Table Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Last Status"
-msgstr ""
+msgstr "Status Terakhir"
 
 #: frontend/src2/data_store/DataStoreList.vue:48
 msgid "Last Synced"
-msgstr ""
+msgstr "Terakhir Disinkronkan"
 
 #. Label of the last_synced_on (Datetime) field in DocType 'Insights Table v3'
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
@@ -1687,17 +1687,17 @@ msgstr "Waktu tersisa"
 #: frontend/src2/query/components/JoinSelectorDialog.vue:280
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 msgid "Left Column"
-msgstr ""
+msgstr "Kolom Kiri"
 
 #. Label of the left_table (Data) field in DocType 'Insights Table Link v3'
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 msgid "Left Table"
-msgstr ""
+msgstr "Meja Kiri"
 
 #. Label of the tab_break_tvwi (Tab Break) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Legacy"
-msgstr ""
+msgstr "Warisan"
 
 #. Label of the limit (Int) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
@@ -1709,12 +1709,12 @@ msgstr "Batas"
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:191
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 msgid "Linked Charts"
-msgstr ""
+msgstr "Bagan Tertaut"
 
 #. Label of the linked_queries (JSON) field in DocType 'Insights Query v3'
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Linked Queries"
-msgstr ""
+msgstr "Kueri Tertaut"
 
 #. Label of the table_links (Table) field in DocType 'Insights Table'
 #: insights/insights/doctype/insights_table/insights_table.json
@@ -1724,7 +1724,7 @@ msgstr "Tautan"
 #. Label of the output (Code) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Log"
-msgstr ""
+msgstr "Catatan"
 
 #: frontend/src2/components/UserDropdown.vue:126
 #: frontend/src2/components/UserDropdown.vue:130
@@ -1737,7 +1737,7 @@ msgstr "Masuk ke Frappe Cloud"
 
 #: frontend/src2/components/UserDropdown.vue:80
 msgid "Login to Frappe Cloud?"
-msgstr ""
+msgstr "Masuk ke Frappe Cloud?"
 
 #: frontend/src2/query/components/ScriptQueryEditor.vue:82
 #: frontend/src2/query/components/ScriptQueryEditor.vue:113
@@ -1747,7 +1747,7 @@ msgstr "Log"
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 msgid "Long Int"
-msgstr ""
+msgstr "Panjang Int"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
@@ -1756,11 +1756,11 @@ msgstr "Teks Panjang"
 
 #: frontend/src2/teams/ManageTeamDialog.vue:63
 msgid "Manage Team"
-msgstr ""
+msgstr "Kelola Tim"
 
 #: frontend/src2/workbook/WorkbookShareDialog.vue:92
 msgid "Manage Workbook Access"
-msgstr ""
+msgstr "Kelola Akses Buku Kerja"
 
 #. Option for the 'Database Type' (Select) field in DocType 'Insights Data
 #. Source'
@@ -1770,43 +1770,43 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "MariaDB"
-msgstr ""
+msgstr "MariaDB"
 
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.js:7
 msgid "Mark as Failed"
-msgstr ""
+msgstr "Tandai sebagai Gagal"
 
 #: frontend/src2/dashboard/DashboardText.vue:54
 msgid "Markdown supported"
-msgstr ""
+msgstr "Penurunan harga didukung"
 
 #. Label of the max_execution_time (Int) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Max Execution Time (Seconds)"
-msgstr ""
+msgstr "Waktu Eksekusi Maks (Detik)"
 
 #. Label of the max_memory_usage (Int) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Max Memory Usage"
-msgstr ""
+msgstr "Penggunaan Memori Maks"
 
 #. Label of the max_records_to_sync (Int) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Max Records To Sync"
-msgstr ""
+msgstr "Catatan Maks Untuk Disinkronkan"
 
 #: frontend/src2/charts/components/MeasurePicker.vue:130
 msgid "Maximum of..."
-msgstr ""
+msgstr "Maksimum..."
 
 #: frontend/src2/charts/components/NewMeasureSelectorDialog.vue:112
 msgid "Measure Name"
-msgstr ""
+msgstr "Nama Ukur"
 
 #. Label of the memory_limit (Int) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Memory Limit (MB)"
-msgstr ""
+msgstr "Batas Memori (MB)"
 
 #. Label of the message (Markdown Editor) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:238
@@ -1816,12 +1816,12 @@ msgstr "Pesan"
 
 #: frontend/src2/charts/components/MeasurePicker.vue:129
 msgid "Minimum of..."
-msgstr ""
+msgstr "Minimal..."
 
 #: frontend/src2/data_source/DataSourceList.vue:120
 #: frontend/src2/workbook/WorkbookList.vue:103
 msgid "Modified"
-msgstr ""
+msgstr "Dimodifikasi"
 
 #. Option for the 'Week Starts On' (Select) field in DocType 'Insights
 #. Settings'
@@ -1837,12 +1837,12 @@ msgstr "Bulanan"
 #. Option for the 'Cardinality' (Select) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "N:1"
-msgstr ""
+msgstr "N:1"
 
 #. Option for the 'Cardinality' (Select) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "N:N"
-msgstr ""
+msgstr "N:N"
 
 #. Label of the column (Data) field in DocType 'Insights Query Column'
 #: frontend/src2/components/VariablesDialog.vue:84
@@ -1853,7 +1853,7 @@ msgstr "Nama"
 #: frontend/src2/query/components/QueryAlertsDialog.vue:79
 #: frontend/src2/query/components/QueryAlertsDialog.vue:108
 msgid "New Alert"
-msgstr ""
+msgstr "Peringatan Baru"
 
 #: frontend/src2/workbook/WorkbookTabSwitcher.vue:63
 msgid "New Chart"
@@ -1861,22 +1861,22 @@ msgstr "Diagram Baru"
 
 #: frontend/src2/workbook/WorkbookTabSwitcher.vue:64
 msgid "New Dashboard"
-msgstr ""
+msgstr "Dasbor Baru"
 
 #: frontend/src2/data_source/DataSourceList.vue:133
 #: frontend/src2/data_source/DataSourceList.vue:148
 msgid "New Data Source"
-msgstr ""
+msgstr "Sumber Data Baru"
 
 #: frontend/src2/workbook/WorkbookTabSwitcher.vue:62
 msgid "New Query"
-msgstr ""
+msgstr "Kueri Baru"
 
 #: frontend/src2/home/HomeQuickActions.vue:28
 #: frontend/src2/workbook/WorkbookList.vue:116
 #: frontend/src2/workbook/WorkbookList.vue:151
 msgid "New Workbook"
-msgstr ""
+msgstr "Buku Kerja Baru"
 
 #. Label of the next_execution (Datetime) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -1889,11 +1889,11 @@ msgstr "Tidak"
 
 #: frontend/src2/dashboard/DashboardList.vue:94
 msgid "No Dashboards"
-msgstr ""
+msgstr "Tidak Ada Dasbor"
 
 #: frontend/src2/query/components/source_selector/WorkbookQueryList.vue:90
 msgid "No Queries Found"
-msgstr ""
+msgstr "Tidak Ada Pertanyaan yang Ditemukan"
 
 #: frontend/src2/data_source/DataSourceTableList.vue:40
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:58
@@ -1902,74 +1902,74 @@ msgstr ""
 
 #: frontend/src2/data_store/DataStoreList.vue:57
 msgid "No Tables Stored"
-msgstr ""
+msgstr "Tidak Ada Tabel yang Disimpan"
 
 #: frontend/src2/workbook/WorkbookList.vue:113
 msgid "No Workbooks"
-msgstr ""
+msgstr "Tidak Ada Buku Kerja"
 
 #: frontend/src2/query/components/QueryAlertsDialog.vue:76
 msgid "No alerts"
-msgstr ""
+msgstr "Tidak ada peringatan"
 
 #: frontend/src2/query/components/ColumnsSelectorDialog.vue:108
 msgid "No columns selected"
-msgstr ""
+msgstr "Tidak ada kolom yang dipilih"
 
 #: frontend/src2/data_source/DataSourceList.vue:131
 msgid "No data sources to display."
-msgstr ""
+msgstr "Tidak ada sumber data untuk ditampilkan."
 
 #: frontend/src2/data_source/DataSourceList.vue:130
 msgid "No data sources."
-msgstr ""
+msgstr "Tidak ada sumber data."
 
 #: frontend/src2/data_source/DataSourceTableList.vue:41
 msgid "No tables found for the selected data source."
-msgstr ""
+msgstr "Tidak ditemukan tabel untuk sumber data yang dipilih."
 
 #: frontend/src2/data_store/DataStoreList.vue:58
 msgid "No tables found in the data store."
-msgstr ""
+msgstr "Tidak ada tabel yang ditemukan di penyimpanan data."
 
 #: frontend/src2/settings/PermissionsSettings.vue:64
 #: frontend/src2/teams/TeamList.vue:62
 msgid "No teams to display."
-msgstr ""
+msgstr "Tidak ada tim untuk ditampilkan."
 
 #: frontend/src2/settings/PermissionsSettings.vue:63
 #: frontend/src2/teams/TeamList.vue:61
 msgid "No teams."
-msgstr ""
+msgstr "Tidak ada tim."
 
 #: frontend/src2/settings/UsersSettings.vue:82
 #: frontend/src2/users/UserList.vue:81
 msgid "No users to display."
-msgstr ""
+msgstr "Tidak ada pengguna untuk ditampilkan."
 
 #: frontend/src2/settings/UsersSettings.vue:81
 #: frontend/src2/users/UserList.vue:80
 msgid "No users."
-msgstr ""
+msgstr "Tidak ada pengguna."
 
 #: frontend/src2/home/HomeWorkbookList.vue:66
 msgid "No workbooks created"
-msgstr ""
+msgstr "Tidak ada buku kerja yang dibuat"
 
 #: frontend/src2/workbook/WorkbookList.vue:114
 msgid "No workbooks to display."
-msgstr ""
+msgstr "Tidak ada buku kerja untuk ditampilkan."
 
 #. Option for the 'Authentication Type' (Select) field in DocType 'Insights
 #. Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #. Label of the notebook (Link) field in DocType 'Insights Notebook Page'
 #: insights/insights/doctype/insights_notebook_page/insights_notebook_page.json
 msgid "Notebook"
-msgstr ""
+msgstr "Buku catatan"
 
 #. Label of the old_name (Data) field in DocType 'Insights Chart v3'
 #. Label of the old_name (Data) field in DocType 'Insights Dashboard v3'
@@ -1978,23 +1978,23 @@ msgstr ""
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Old Name"
-msgstr ""
+msgstr "Nama Lama"
 
 #. Label of the onboarding_complete (Check) field in DocType 'Insights
 #. Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Onboarding Complete"
-msgstr ""
+msgstr "Orientasi Selesai"
 
 #: frontend/src2/dashboard/Dashboard.vue:68
 #: frontend/src2/dashboard/DashboardList.vue:22
 msgid "Open Workbook"
-msgstr ""
+msgstr "Buka Buku Kerja"
 
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:55
 #: frontend/src2/workbook/WorkbookNavbarActions.vue:72
 msgid "Open in Desk"
-msgstr ""
+msgstr "Buka di Meja"
 
 #. Label of the operations (JSON) field in DocType 'Insights Query v3'
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
@@ -2003,7 +2003,7 @@ msgstr "Operasi"
 
 #: frontend/src2/query/components/FormatRule.vue:416
 msgid "Operator"
-msgstr ""
+msgstr "Operator"
 
 #. Label of the options (JSON) field in DocType 'Insights Chart'
 #. Label of the options (JSON) field in DocType 'Insights Dashboard Item'
@@ -2027,7 +2027,7 @@ msgstr "Organisasi"
 #. Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
 msgid "Overwrite"
-msgstr ""
+msgstr "Timpa"
 
 #: frontend/src2/data_source/DataSourceList.vue:106
 #: frontend/src2/teams/TeamList.vue:34
@@ -2039,7 +2039,7 @@ msgstr "Pemilik"
 #. Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Parquet File"
-msgstr ""
+msgstr "File Parket"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -2064,7 +2064,7 @@ msgstr "Tertunda"
 #. Option for the 'Status' (Select) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Pending Execution"
-msgstr ""
+msgstr "Eksekusi yang Tertunda"
 
 #: frontend/src2/settings/Settings.vue:38
 msgid "Permissions"
@@ -2072,31 +2072,31 @@ msgstr "Otorisasi"
 
 #: frontend/src2/workbook/WorkbookShareDialog.vue:82
 msgid "Permissions updated"
-msgstr ""
+msgstr "Izin diperbarui"
 
 #. Description of the 'State (JSON)' (Code) field in DocType 'Insights Table
 #. Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Persistent state storage for the script"
-msgstr ""
+msgstr "Penyimpanan status persisten untuk skrip"
 
 #: frontend/src2/query/components/source_selector/SourceSelectorDialog.vue:125
 msgid "Pick Starting Data"
-msgstr ""
+msgstr "Pilih Data Awal"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Query Transform'
 #: frontend/src2/query/components/AddOperationPopover.vue:74
 #: insights/insights/doctype/insights_query_transform/insights_query_transform.json
 msgid "Pivot"
-msgstr ""
+msgstr "Poros"
 
 #: frontend/src2/query/components/NativeQueryEditor.vue:26
 msgid "Please select a data source first"
-msgstr ""
+msgstr "Silakan pilih sumber data terlebih dahulu"
 
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:53
 msgid "Please wait while we refresh the tables from your data source"
-msgstr ""
+msgstr "Harap tunggu sementara kami menyegarkan tabel dari sumber data Anda"
 
 #. Label of the port (Data) field in DocType 'Insights Data Source'
 #. Label of the port (Int) field in DocType 'Insights Data Source v3'
@@ -2106,12 +2106,12 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Port"
-msgstr ""
+msgstr "Pelabuhan"
 
 #. Label of the layout (JSON) field in DocType 'Insights Dashboard Item'
 #: insights/insights/doctype/insights_dashboard_item/insights_dashboard_item.json
 msgid "Position & Size"
-msgstr ""
+msgstr "Posisi & Ukuran"
 
 #. Option for the 'Database Type' (Select) field in DocType 'Insights Data
 #. Source'
@@ -2121,17 +2121,17 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "PostgreSQL"
-msgstr ""
+msgstr "PostgreSQL"
 
 #. Label of the preview_image (Data) field in DocType 'Insights Dashboard v3'
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 msgid "Preview Image"
-msgstr ""
+msgstr "Pratinjau Gambar"
 
 #. Label of the primary_key (Data) field in DocType 'Insights Table Link'
 #: insights/insights/doctype/insights_table_link/insights_table_link.json
 msgid "Primary Key"
-msgstr ""
+msgstr "Kunci Utama"
 
 #: frontend/src2/settings/Settings.vue:13
 msgid "Profile"
@@ -2142,13 +2142,13 @@ msgstr "Profil"
 #: insights/insights/doctype/insights_chart/insights_chart.json
 #: insights/insights/doctype/insights_dashboard/insights_dashboard.json
 msgid "Public Key"
-msgstr ""
+msgstr "Kunci Publik"
 
 #: frontend/src2/query/components/source_selector/SourceSelectorDialog.vue:89
 #: frontend/src2/query/components/source_selector/WorkbookQueryList.vue:59
 #: frontend/src2/workbook/WorkbookSidebar.vue:29
 msgid "Queries"
-msgstr ""
+msgstr "Pertanyaan"
 
 #. Label of the query (Link) field in DocType 'Insights Alert'
 #. Label of the query (Link) field in DocType 'Insights Chart'
@@ -2175,7 +2175,7 @@ msgstr "Kueri"
 #. Label of the query_result_limit (Int) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Query Result Limit"
-msgstr ""
+msgstr "Batas Hasil Kueri"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -2184,20 +2184,20 @@ msgstr "Diantrikan"
 
 #: frontend/src2/home/HomeQuickActions.vue:21
 msgid "Quick Actions"
-msgstr ""
+msgstr "Tindakan Cepat"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Data Source v3'
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "REST API"
-msgstr ""
+msgstr "API REST"
 
 #: frontend/src2/query/components/FormatRule.vue:478
 msgid "Ranking Condition"
-msgstr ""
+msgstr "Kondisi Peringkat"
 
 #: frontend/src2/query/components/FormatRule.vue:225
 msgid "Ranking Rules"
-msgstr ""
+msgstr "Aturan Pemeringkatan"
 
 #. Label of the recipients (Small Text) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:181
@@ -2211,7 +2211,7 @@ msgstr "Merah"
 
 #: frontend/src2/query/components/FormatRule.vue:209
 msgid "Red-Green"
-msgstr ""
+msgstr "Merah-Hijau"
 
 #: frontend/src2/dashboard/Dashboard.vue:51
 #: frontend/src2/data_source/DataSourceTableList.vue:43
@@ -2220,20 +2220,20 @@ msgstr "Segarkan"
 
 #: frontend/src2/dashboard/DashboardList.vue:27
 msgid "Refresh Preview"
-msgstr ""
+msgstr "Segarkan Pratinjau"
 
 #: frontend/src2/query/components/QueryBuilderToolbar.vue:19
 msgid "Refresh Stored Tables"
-msgstr ""
+msgstr "Segarkan Tabel Tersimpan"
 
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:62
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:87
 msgid "Refresh Tables"
-msgstr ""
+msgstr "Segarkan Tabel"
 
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:52
 msgid "Refreshing Tables"
-msgstr ""
+msgstr "Tabel yang Menyegarkan"
 
 #: frontend/src2/query/components/FiltersSelector.vue:126
 #: frontend/src2/workbook/WorkbookShareDialog.vue:39
@@ -2242,7 +2242,7 @@ msgstr "Hapus"
 
 #: frontend/src2/components/DataTableColumn.vue:30
 msgid "Remove Sort"
-msgstr ""
+msgstr "Hapus Sortir"
 
 #: frontend/src2/dashboard/DashboardBuilder.vue:158
 msgid "Reset Layout"
@@ -2250,11 +2250,11 @@ msgstr "Reset Tata Letak"
 
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:44
 msgid "Reset Options"
-msgstr ""
+msgstr "Atur Ulang Opsi"
 
 #: frontend/src2/charts/components/RegionMappingDialog.vue:194
 msgid "Resolve Locations"
-msgstr ""
+msgstr "Selesaikan Lokasi"
 
 #. Label of the resource_name (Dynamic Link) field in DocType 'Insights
 #. Resource Permission'
@@ -2266,7 +2266,7 @@ msgstr "Sumber Daya"
 #. Permission'
 #: insights/insights/doctype/insights_resource_permission/insights_resource_permission.json
 msgid "Resource Type"
-msgstr ""
+msgstr "Jenis Sumber Daya"
 
 #. Label of the result_name (Data) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
@@ -2281,13 +2281,13 @@ msgstr ""
 #. Label of the results (Code) field in DocType 'Insights Query Result'
 #: insights/insights/doctype/insights_query_result/insights_query_result.json
 msgid "Results"
-msgstr ""
+msgstr "Hasil"
 
 #. Label of the results_row_count (Int) field in DocType 'Insights Query
 #. Result'
 #: insights/insights/doctype/insights_query_result/insights_query_result.json
 msgid "Results Row Count"
-msgstr ""
+msgstr "Jumlah Baris Hasil"
 
 #: frontend/src2/charts/components/DonutChartConfigForm.vue:60
 #: frontend/src2/charts/components/FunnelChartConfigForm.vue:57
@@ -2299,13 +2299,13 @@ msgstr "Benar"
 #: frontend/src2/query/components/JoinSelectorDialog.vue:294
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 msgid "Right Column"
-msgstr ""
+msgstr "Kolom Kanan"
 
 #. Label of the right_table (Data) field in DocType 'Insights Table Link v3'
 #: frontend/src2/query/components/JoinSelectorDialog.vue:260
 #: insights/insights/doctype/insights_table_link_v3/insights_table_link_v3.json
 msgid "Right Table"
-msgstr ""
+msgstr "Meja Kanan"
 
 #. Label of the row_limit (Int) field in DocType 'Insights Table Import Log'
 #. Label of the row_limit (Int) field in DocType 'Insights Table v3'
@@ -2317,7 +2317,7 @@ msgstr ""
 #. Label of the row_size (Float) field in DocType 'Insights Table Import Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Row Size (KB)"
-msgstr ""
+msgstr "Ukuran Baris (KB)"
 
 #. Label of the rows (Int) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -2328,16 +2328,16 @@ msgstr "Baris"
 #. Log'
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Rows Imported"
-msgstr ""
+msgstr "Baris Diimpor"
 
 #: frontend/src2/query/components/FormatRule.vue:405
 msgid "Rule Type"
-msgstr ""
+msgstr "Jenis Aturan"
 
 #: frontend/src2/query/components/ScriptQueryEditor.vue:94
 #: insights/insights/doctype/insights_query/insights_query.js:7
 msgid "Run"
-msgstr ""
+msgstr "Berlari"
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:37
 msgid "Run {0} of {1}"
@@ -2348,7 +2348,7 @@ msgstr ""
 #: insights/insights/doctype/insights_query/insights_query.json
 #: insights/insights/doctype/insights_query_execution_log/insights_query_execution_log.json
 msgid "SQL"
-msgstr ""
+msgstr "SQL"
 
 #. Option for the 'Database Type' (Select) field in DocType 'Insights Data
 #. Source'
@@ -2357,15 +2357,15 @@ msgstr ""
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "SQLite"
-msgstr ""
+msgstr "SQLite"
 
 #: frontend/src2/settings/GeneralSettings.vue:23
 msgid "Sample data and workbook have been set up successfully"
-msgstr ""
+msgstr "Contoh data dan buku kerja telah berhasil disiapkan"
 
 #: frontend/src2/components/DemoDataBanner.vue:27
 msgid "Sample data with workbook has been set up successfully"
-msgstr ""
+msgstr "Contoh data dengan buku kerja telah berhasil disiapkan"
 
 #. Option for the 'Week Starts On' (Select) field in DocType 'Insights
 #. Settings'
@@ -2385,18 +2385,18 @@ msgstr "Simpan Perubahan"
 
 #: frontend/src2/components/VariablesDialog.vue:133
 msgid "Save Variables"
-msgstr ""
+msgstr "Simpan Variabel"
 
 #. Label of the schedule (Data) field in DocType 'Insights Table Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Schedule (Cron)"
-msgstr ""
+msgstr "Jadwal (Cron)"
 
 #. Label of the schema (Data) field in DocType 'Insights Data Source v3'
 #: frontend/src2/data_source/ConnectPostgreSQLDialog.vue:57
 #: insights/insights/doctype/insights_data_source_v3/insights_data_source_v3.json
 msgid "Schema"
-msgstr ""
+msgstr "Skema"
 
 #. Label of the script (Code) field in DocType 'Insights Query'
 #. Label of the script (Code) field in DocType 'Insights Table Import Job'
@@ -2408,7 +2408,7 @@ msgstr "Skrip"
 #. Label of the script_log (Text) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Script Log"
-msgstr ""
+msgstr "Log Skrip"
 
 #: frontend/src2/dashboard/DashboardList.vue:52
 #: frontend/src2/data_store/DataStoreList.vue:92
@@ -2422,20 +2422,20 @@ msgstr "Pencarian"
 #: frontend/src2/query/components/source_selector/WorkbookQueryList.vue:63
 #: frontend/src2/workbook/WorkbookList.vue:166
 msgid "Search by Title"
-msgstr ""
+msgstr "Cari berdasarkan Judul"
 
 #: frontend/src2/dashboard/DashboardChartSelectorDialog.vue:85
 msgid "Search by name"
-msgstr ""
+msgstr "Cari berdasarkan nama"
 
 #. Label of the secrets (Table) field in DocType 'Insights Table Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "Secrets"
-msgstr ""
+msgstr "Rahasia"
 
 #: frontend/src2/dashboard/DashboardChartSelectorDialog.vue:64
 msgid "Select Charts"
-msgstr ""
+msgstr "Pilih Bagan"
 
 #: frontend/src2/query/components/ColumnsSelectorDialog.vue:62
 msgid "Select Columns"
@@ -2443,7 +2443,7 @@ msgstr "Pilih Kolom"
 
 #: frontend/src2/query/components/JoinSelectorDialog.vue:363
 msgid "Select Columns to Add"
-msgstr ""
+msgstr "Pilih Kolom untuk Ditambahkan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:203
 msgid "Select Field"
@@ -2451,64 +2451,64 @@ msgstr "Pilih Bidang"
 
 #: frontend/src2/query/components/JoinSelectorDialog.vue:335
 msgid "Select Join Type"
-msgstr ""
+msgstr "Pilih Jenis Gabungan"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:32
 msgid "Select Source"
-msgstr ""
+msgstr "Pilih Sumber"
 
 #: frontend/src2/query/components/UnionSelectorDialog.vue:126
 msgid "Select Table"
-msgstr ""
+msgstr "Pilih Tabel"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:210
 msgid "Select a column"
-msgstr ""
+msgstr "Pilih kolom"
 
 #: frontend/src2/data_source/DataSourceList.vue:170
 msgid "Select a data source"
-msgstr ""
+msgstr "Pilih sumber data"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:33
 msgid "Select a table or query to start building your query"
-msgstr ""
+msgstr "Pilih tabel atau kueri untuk mulai membuat kueri Anda"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:145
 msgid "Select an operation"
-msgstr ""
+msgstr "Pilih operasi"
 
 #: frontend/src2/dashboard/DashboardFilterEditor.vue:253
 msgid "Select operator..."
-msgstr ""
+msgstr "Pilih operator..."
 
 #: insights/insights/doctype/insights_alert/insights_alert.js:6
 msgid "Send Alert"
-msgstr ""
+msgstr "Kirim Peringatan"
 
 #: frontend/src2/settings/UsersSettings.vue:177
 #: frontend/src2/users/UserList.vue:178
 msgid "Send Invitation"
-msgstr ""
+msgstr "Kirim Undangan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:117
 msgid "Send Test Alert"
-msgstr ""
+msgstr "Kirim Peringatan Tes"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:197
 msgid "Send alert when"
-msgstr ""
+msgstr "Kirim peringatan kapan"
 
 #: insights/insights/doctype/insights_alert/insights_alert.js:7
 msgid "Sending Alert..."
-msgstr ""
+msgstr "Mengirim Peringatan..."
 
 #: frontend/src2/components/UserDropdown.vue:70
 msgid "Set Insights v2 as default"
-msgstr ""
+msgstr "Tetapkan Wawasan v2 sebagai default"
 
 #: frontend/src2/query/components/QueryAlertsDialog.vue:77
 msgid "Set up alerts to get notified when a condition is met"
-msgstr ""
+msgstr "Atur peringatan untuk mendapat pemberitahuan ketika suatu kondisi terpenuhi"
 
 #: frontend/src2/components/AppSidebar.vue:95
 #: frontend/src2/settings/Settings.vue:58
@@ -2521,7 +2521,7 @@ msgstr "Pengaturan"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:113
 msgid "Setup Alert"
-msgstr ""
+msgstr "Peringatan Pengaturan"
 
 #. Label of the setup_complete (Check) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
@@ -2530,35 +2530,35 @@ msgstr "Pengaturan Selesai"
 
 #: frontend/src2/components/DemoDataBanner.vue:64
 msgid "Setup Demo Data"
-msgstr ""
+msgstr "Siapkan Data Demo"
 
 #: frontend/src2/components/DemoDataBanner.vue:32
 #: frontend/src2/settings/GeneralSettings.vue:28
 msgid "Setup Failed"
-msgstr ""
+msgstr "Pengaturan Gagal"
 
 #: frontend/src2/charts/components/ChartBuilderToolbar.vue:33
 #: frontend/src2/charts/components/ChartShareDialog.vue:35
 msgid "Share Chart"
-msgstr ""
+msgstr "Bagikan Bagan"
 
 #: frontend/src2/dashboard/DashboardShareDialog.vue:83
 msgid "Share Dashboard"
-msgstr ""
+msgstr "Bagikan Dasbor"
 
 #. Label of the share_link (Data) field in DocType 'Insights Dashboard v3'
 #: insights/insights/doctype/insights_dashboard_v3/insights_dashboard_v3.json
 msgid "Share Link"
-msgstr ""
+msgstr "Bagikan Tautan"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:39
 msgid "Show or hide columns from the table"
-msgstr ""
+msgstr "Menampilkan atau menyembunyikan kolom dari tabel"
 
 #. Label of the is_site_db (Check) field in DocType 'Insights Data Source'
 #: insights/insights/doctype/insights_data_source/insights_data_source.json
 msgid "Site Database"
-msgstr ""
+msgstr "Basis Data Situs"
 
 #: frontend/src2/components/DataTableColumn.vue:20
 msgid "Sort Ascending"
@@ -2581,11 +2581,11 @@ msgstr "Sumber"
 
 #: frontend/src2/dashboard/DashboardShareDialog.vue:114
 msgid "Specific people can view"
-msgstr ""
+msgstr "Orang-orang tertentu dapat melihat"
 
 #: frontend/src2/query/components/AddOperationPopover.vue:75
 msgid "Spreading column values into separate columns"
-msgstr ""
+msgstr "Menyebarkan nilai kolom ke dalam kolom terpisah"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -2600,12 +2600,12 @@ msgstr "Dimulai Pada"
 
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.js:27
 msgid "Starting..."
-msgstr ""
+msgstr "Mulai..."
 
 #. Label of the state (Code) field in DocType 'Insights Table Import Job'
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 msgid "State (JSON)"
-msgstr ""
+msgstr "Negara Bagian (JSON)"
 
 #. Label of the status (Select) field in DocType 'Insights Data Source'
 #. Label of the status (Select) field in DocType 'Insights Data Source v3'
@@ -2624,19 +2624,19 @@ msgstr ""
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 #: insights/insights/doctype/insights_user_invitation/insights_user_invitation.json
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. Label of the is_stored (Check) field in DocType 'Insights Query'
 #. Label of the stored (Check) field in DocType 'Insights Table v3'
 #: insights/insights/doctype/insights_query/insights_query.json
 #: insights/insights/doctype/insights_table_v3/insights_table_v3.json
 msgid "Stored"
-msgstr ""
+msgstr "Tersimpan"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
 msgid "String"
-msgstr ""
+msgstr "Rangkaian"
 
 #. Option for the 'Status' (Select) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
@@ -2655,16 +2655,16 @@ msgstr "Minggu"
 
 #: frontend/src2/components/UserDropdown.vue:148
 msgid "Switch to Desk"
-msgstr ""
+msgstr "Beralih ke Meja"
 
 #: frontend/src2/components/UserDropdown.vue:54
 #: frontend/src2/components/UserDropdown.vue:140
 msgid "Switch to Insights v2"
-msgstr ""
+msgstr "Beralih ke Wawasan v2"
 
 #: frontend/src2/query/components/source_selector/DataSourceTableList.vue:59
 msgid "Sync tables from your data source to get started"
-msgstr ""
+msgstr "Sinkronkan tabel dari sumber data Anda untuk memulai"
 
 #. Name of a role
 #: insights/insights/doctype/insights_chart/insights_chart.json
@@ -2699,14 +2699,14 @@ msgstr "Tabel"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:64
 msgid "Table Imported"
-msgstr ""
+msgstr "Tabel Diimpor"
 
 #. Label of the table_label (Data) field in DocType 'Insights Query Column'
 #. Label of the table_label (Data) field in DocType 'Insights Table Import'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 #: insights/insights/doctype/insights_table_import/insights_table_import.json
 msgid "Table Label"
-msgstr ""
+msgstr "Label Tabel"
 
 #. Label of the table_name (Data) field in DocType 'Insights Table Import'
 #. Label of the table_name (Data) field in DocType 'Insights Table Import Job'
@@ -2717,22 +2717,22 @@ msgstr ""
 #: insights/insights/doctype/insights_table_import_job/insights_table_import_job.json
 #: insights/insights/doctype/insights_table_import_log/insights_table_import_log.json
 msgid "Table Name"
-msgstr ""
+msgstr "Nama Tabel"
 
 #. Label of the table_restrictions (Data) field in DocType 'Insights Resource
 #. Permission'
 #: insights/insights/doctype/insights_resource_permission/insights_resource_permission.json
 msgid "Table Restrictions"
-msgstr ""
+msgstr "Batasan Tabel"
 
 #. Label of the tables (Table) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Tables"
-msgstr ""
+msgstr "Tabel"
 
 #: frontend/src2/teams/TeamList.vue:30
 msgid "Team"
-msgstr ""
+msgstr "Tim"
 
 #. Label of the team_members (Table) field in DocType 'Insights Team'
 #: insights/insights/doctype/insights_team/insights_team.json
@@ -2743,33 +2743,33 @@ msgstr "Anggota Tim"
 #: frontend/src2/settings/PermissionsSettings.vue:45
 #: insights/insights/doctype/insights_team/insights_team.json
 msgid "Team Name"
-msgstr ""
+msgstr "Nama Tim"
 
 #. Label of the team_permissions (Table) field in DocType 'Insights Team'
 #: insights/insights/doctype/insights_team/insights_team.json
 msgid "Team Permissions"
-msgstr ""
+msgstr "Izin Tim"
 
 #: frontend/src2/teams/TeamList.vue:83
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #. Option for the 'Channel' (Select) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #. Label of the telegram_api_token (Password) field in DocType 'Insights
 #. Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Telegram API Token"
-msgstr ""
+msgstr "Token API Telegram"
 
 #. Label of the telegram_chat_id (Data) field in DocType 'Insights Alert'
 #: frontend/src2/query/components/AlertSetupDialog.vue:188
 #: insights/insights/doctype/insights_alert/insights_alert.json
 msgid "Telegram Chat ID"
-msgstr ""
+msgstr "ID Obrolan Telegram"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Table Column'
 #: insights/insights/doctype/insights_table_column/insights_table_column.json
@@ -2778,11 +2778,11 @@ msgstr "Teks"
 
 #: frontend/src2/query/components/FormatRule.vue:230
 msgid "Text Rules"
-msgstr ""
+msgstr "Aturan Teks"
 
 #: frontend/src2/query/components/ColumnFilterTypeDate.vue:58
 msgid "This FY"
-msgstr ""
+msgstr "TA ini"
 
 #: frontend/src2/query/components/ColumnFilterTypeDate.vue:55
 msgid "This Month"
@@ -2815,7 +2815,7 @@ msgstr "Waktu"
 #. Log'
 #: insights/insights/doctype/insights_query_execution_log/insights_query_execution_log.json
 msgid "Time Taken (Seconds)"
-msgstr ""
+msgstr "Waktu yang Dibutuhkan (Detik)"
 
 #. Label of the title (Data) field in DocType 'Insights Alert'
 #. Label of the title (Data) field in DocType 'Insights Chart v3'
@@ -2866,30 +2866,30 @@ msgstr "Atas"
 
 #: frontend/src2/query/components/FormatRule.vue:201
 msgid "Top N percent"
-msgstr ""
+msgstr "N persen teratas"
 
 #: frontend/src2/query/components/FormatRule.vue:199
 msgid "Top N values"
-msgstr ""
+msgstr "Nilai N teratas"
 
 #. Label of the transform_tab (Tab Break) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Transform"
-msgstr ""
+msgstr "Mengubah"
 
 #. Label of the transforms (Table) field in DocType 'Insights Query'
 #: insights/insights/doctype/insights_query/insights_query.json
 msgid "Transforms"
-msgstr ""
+msgstr "Berubah"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Query Transform'
 #: insights/insights/doctype/insights_query_transform/insights_query_transform.json
 msgid "Transpose"
-msgstr ""
+msgstr "Mengubah urutan"
 
 #: frontend/src2/components/DemoDataBanner.vue:50
 msgid "Try demo data"
-msgstr ""
+msgstr "Coba data demo"
 
 #. Option for the 'Week Starts On' (Select) field in DocType 'Insights
 #. Settings'
@@ -2917,20 +2917,20 @@ msgstr "Tipe"
 
 #: frontend/src2/charts/components/NewMeasureSelectorDialog.vue:72
 msgid "Unexpected validation error"
-msgstr ""
+msgstr "Kesalahan validasi yang tidak terduga"
 
 #: frontend/src2/charts/components/MeasurePicker.vue:131
 msgid "Unique Count of..."
-msgstr ""
+msgstr "Hitungan Unik..."
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Query Transform'
 #: insights/insights/doctype/insights_query_transform/insights_query_transform.json
 msgid "Unpivot"
-msgstr ""
+msgstr "Batalkan poros"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:129
 msgid "Update Alert"
-msgstr ""
+msgstr "Perbarui Peringatan"
 
 #: frontend/src2/data_source/DataSourceTableList.vue:95
 msgid "Update Table Links"
@@ -2938,15 +2938,15 @@ msgstr ""
 
 #: frontend/src2/data_source/DataSourceTableList.vue:82
 msgid "Update Tables"
-msgstr ""
+msgstr "Perbarui Tabel"
 
 #: frontend/src2/data_source/DataSourceList.vue:76
 msgid "Upload CSV or Excel"
-msgstr ""
+msgstr "Unggah CSV atau Excel"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:96
 msgid "Upload CSV/Excel/JSON File"
-msgstr ""
+msgstr "Unggah File CSV/Excel/JSON"
 
 #: frontend/src2/data_source/UploadCSVFileDialog.vue:37
 msgid "Upload Failed"
@@ -2954,17 +2954,17 @@ msgstr "Unggahan Gagal"
 
 #: frontend/src2/data_source/DataSourceList.vue:78
 msgid "Upload a CSV or Excel file to create a new data source"
-msgstr ""
+msgstr "Unggah file CSV atau Excel untuk membuat sumber data baru"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:231
 msgid "Use Custom Condition"
-msgstr ""
+msgstr "Gunakan Kondisi Kustom"
 
 #. Label of the use_live_connection (Check) field in DocType 'Insights Query
 #. v3'
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Use Live Connection"
-msgstr ""
+msgstr "Gunakan Koneksi Langsung"
 
 #. Label of the use_ssl (Check) field in DocType 'Insights Data Source'
 #. Label of the use_ssl (Check) field in DocType 'Insights Data Source v3'
@@ -2977,7 +2977,7 @@ msgstr "Gunakan SSL"
 #: frontend/src2/data_source/ConnectMariaDBDialog.vue:69
 #: frontend/src2/data_source/ConnectPostgreSQLDialog.vue:77
 msgid "Use secure connection (SSL)?"
-msgstr ""
+msgstr "Gunakan koneksi aman (SSL)?"
 
 #. Label of the user (Link) field in DocType 'Insights Team Member'
 #: frontend/src2/settings/UsersSettings.vue:29
@@ -3002,7 +3002,7 @@ msgstr "Pengguna"
 
 #: frontend/src2/charts/components/NewMeasureSelectorDialog.vue:57
 msgid "Validation failed"
-msgstr ""
+msgstr "Validasi gagal"
 
 #. Label of the value (Password) field in DocType 'Insights Secret Key'
 #: frontend/src2/components/VariablesDialog.vue:85
@@ -3014,18 +3014,18 @@ msgstr "Nilai"
 
 #: frontend/src2/query/components/FormatRule.vue:224
 msgid "Value Rules"
-msgstr ""
+msgstr "Aturan Nilai"
 
 #. Label of the variable_name (Data) field in DocType 'Insights Query Variable'
 #: insights/insights/doctype/insights_query_variable/insights_query_variable.json
 msgid "Variable Name"
-msgstr ""
+msgstr "Nama Variabel"
 
 #. Label of the variable_value (Password) field in DocType 'Insights Query
 #. Variable'
 #: insights/insights/doctype/insights_query_variable/insights_query_variable.json
 msgid "Variable Value"
-msgstr ""
+msgstr "Nilai Variabel"
 
 #. Label of the variables (Table) field in DocType 'Insights Query'
 #. Label of the variables (Table) field in DocType 'Insights Query v3'
@@ -3035,15 +3035,15 @@ msgstr ""
 #: insights/insights/doctype/insights_query/insights_query.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Variables"
-msgstr ""
+msgstr "Variabel"
 
 #: frontend/src2/components/VariablesDialog.vue:69
 msgid "Variables are used to store sensitive information such as API keys and credentials. They can be referenced and combined in your script just like any other variable. For eg."
-msgstr ""
+msgstr "Variabel digunakan untuk menyimpan informasi sensitif seperti kunci API dan kredensial. Mereka dapat direferensikan dan digabungkan dalam skrip Anda sama seperti variabel lainnya. Misalnya."
 
 #: frontend/src2/charts/components/SankeyChartConfigForm.vue:61
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikal"
 
 #. Label of the vertical_compact_layout (Check) field in DocType 'Insights
 #. Dashboard v3'
@@ -3068,7 +3068,7 @@ msgstr "Rabu"
 #. Label of the week_starts_on (Select) field in DocType 'Insights Settings'
 #: insights/insights/doctype/insights_settings/insights_settings.json
 msgid "Week Starts On"
-msgstr ""
+msgstr "Minggu Dimulai"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Insights Alert'
 #: insights/insights/doctype/insights_alert/insights_alert.json
@@ -3084,17 +3084,17 @@ msgstr "Mingguan"
 #: insights/insights/doctype/insights_folder/insights_folder.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "Workbook"
-msgstr ""
+msgstr "Buku Kerja"
 
 #: frontend/src2/components/AppSidebar.vue:79
 #: frontend/src2/home/HomeWorkbookList.vue:36
 #: frontend/src2/workbook/WorkbookList.vue:148
 msgid "Workbooks"
-msgstr ""
+msgstr "Buku kerja"
 
 #: frontend/src2/charts/components/MapChartConfigForm.vue:54
 msgid "World Map"
-msgstr ""
+msgstr "Peta Dunia"
 
 #. Description of the 'Script' (Code) field in DocType 'Insights Table Import
 #. Job'
@@ -3108,42 +3108,42 @@ msgstr "Ya"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:251
 msgid "You can use markdown to format the message. Use double asterisks (**) for bold text. You can use the following fields in the message:"
-msgstr ""
+msgstr "Anda dapat menggunakan penurunan harga untuk memformat pesan. Gunakan tanda bintang ganda (**) untuk teks tebal. Anda dapat menggunakan kolom berikut dalam pesan:"
 
 #: insights/decorators.py:26
 msgid "You do not have permission to access this resource"
-msgstr ""
+msgstr "Anda tidak memiliki izin untuk mengakses sumber daya ini"
 
 #: insights/api/workbooks.py:165 insights/api/workbooks.py:186
 #: insights/api/workbooks.py:198 insights/api/workbooks.py:225
 #: insights/api/workbooks.py:236 insights/api/workbooks.py:250
 msgid "You do not have permission to modify this workbook"
-msgstr ""
+msgstr "Anda tidak memiliki izin untuk mengubah buku kerja ini"
 
 #: insights/api/workbooks.py:79 insights/api/workbooks.py:132
 msgid "You do not have permission to share this workbook"
-msgstr ""
+msgstr "Anda tidak memiliki izin untuk membagikan buku kerja ini"
 
 #: frontend/src2/home/HomeWorkbookList.vue:68
 msgid "Your workbooks will appear here. Create a new workbook to get started."
-msgstr ""
+msgstr "Buku kerja Anda akan muncul di sini. Buat buku kerja baru untuk memulai."
 
 #: frontend/src2/query/components/FormatRule.vue:194
 msgid "after date"
-msgstr ""
+msgstr "setelah tanggal"
 
 #. Option for the 'Order By' (Select) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "asc"
-msgstr ""
+msgstr "bertanya"
 
 #: frontend/src2/query/components/FormatRule.vue:193
 msgid "before date"
-msgstr ""
+msgstr "sebelum tanggal"
 
 #: frontend/src2/query/components/FormatRule.vue:195
 msgid "between dates"
-msgstr ""
+msgstr "antar tanggal"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Folder'
 #: insights/insights/doctype/insights_folder/insights_folder.json
@@ -3152,36 +3152,36 @@ msgstr "bagan"
 
 #: frontend/src2/query/components/FormatRule.vue:174
 msgid "contains"
-msgstr ""
+msgstr "berisi"
 
 #. Option for the 'Order By' (Select) field in DocType 'Insights Query Column'
 #: insights/insights/doctype/insights_query_column/insights_query_column.json
 msgid "desc"
-msgstr ""
+msgstr "deskripsi"
 
 #: frontend/src2/query/components/FormatRule.vue:175
 msgid "does not contain"
-msgstr ""
+msgstr "tidak mengandung"
 
 #: frontend/src2/query/components/FormatRule.vue:179
 msgid "does not equal"
-msgstr ""
+msgstr "tidak sama"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:165
 msgid "e.g. 0 0 12 * * ?"
-msgstr ""
+msgstr "misalnya 0 0 12 * * ?"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:190
 msgid "e.g. 123456789"
-msgstr ""
+msgstr "misalnya 123456789"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:146
 msgid "e.g. Low Inventory"
-msgstr ""
+msgstr "misalnya Persediaan Rendah"
 
 #: frontend/src2/components/VariablesDialog.vue:99
 msgid "e.g. api_key"
-msgstr ""
+msgstr "misalnya api_key"
 
 #: frontend/src2/query/components/AlertSetupDialog.vue:183
 msgid "e.g. john@example.com, henry@example.com"
@@ -3189,7 +3189,7 @@ msgstr ""
 
 #: frontend/src2/query/components/FormatRule.vue:177
 msgid "ends with"
-msgstr ""
+msgstr "berakhir dengan"
 
 #: frontend/src2/query/components/FormatRule.vue:165
 #: frontend/src2/query/components/FormatRule.vue:178
@@ -3201,39 +3201,39 @@ msgstr "sama dengan"
 #: insights/insights/doctype/insights_chart_v3/insights_chart_v3.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "folder"
-msgstr ""
+msgstr "map"
 
 #: frontend/src2/query/components/FormatRule.vue:167
 msgid "greater than"
-msgstr ""
+msgstr "lebih besar dari"
 
 #: frontend/src2/query/components/FormatRule.vue:168
 msgid "greater than or equals"
-msgstr ""
+msgstr "lebih besar atau sama dengan"
 
 #: frontend/src2/query/components/FormatRule.vue:180
 msgid "is empty"
-msgstr ""
+msgstr "kosong"
 
 #: frontend/src2/query/components/FormatRule.vue:191
 msgid "is last month"
-msgstr ""
+msgstr "adalah bulan lalu"
 
 #: frontend/src2/query/components/FormatRule.vue:189
 msgid "is last week"
-msgstr ""
+msgstr "adalah minggu lalu"
 
 #: frontend/src2/query/components/FormatRule.vue:181
 msgid "is not empty"
-msgstr ""
+msgstr "tidak kosong"
 
 #: frontend/src2/query/components/FormatRule.vue:190
 msgid "is this month"
-msgstr ""
+msgstr "adalah bulan ini"
 
 #: frontend/src2/query/components/FormatRule.vue:188
 msgid "is this week"
-msgstr ""
+msgstr "adalah minggu ini"
 
 #: frontend/src2/query/components/FormatRule.vue:192
 msgid "is this year"
@@ -3241,27 +3241,27 @@ msgstr ""
 
 #: frontend/src2/query/components/FormatRule.vue:185
 msgid "is today"
-msgstr ""
+msgstr "adalah hari ini"
 
 #: frontend/src2/query/components/FormatRule.vue:187
 msgid "is tomorrow"
-msgstr ""
+msgstr "Apakah besok"
 
 #: frontend/src2/query/components/FormatRule.vue:186
 msgid "is yesterday"
-msgstr ""
+msgstr "adalah kemarin"
 
 #: frontend/src2/query/components/FormatRule.vue:169
 msgid "less than"
-msgstr ""
+msgstr "kurang dari"
 
 #: frontend/src2/query/components/FormatRule.vue:170
 msgid "less than or equals"
-msgstr ""
+msgstr "kurang dari atau sama dengan"
 
 #: frontend/src2/query/components/FormatRule.vue:166
 msgid "not equals"
-msgstr ""
+msgstr "tidak setara"
 
 #. Option for the 'Type' (Select) field in DocType 'Insights Folder'
 #: insights/insights/doctype/insights_folder/insights_folder.json
@@ -3273,11 +3273,11 @@ msgstr "kueri"
 #: insights/insights/doctype/insights_chart_v3/insights_chart_v3.json
 #: insights/insights/doctype/insights_query_v3/insights_query_v3.json
 msgid "sort_order"
-msgstr ""
+msgstr "sort_order"
 
 #: frontend/src2/query/components/FormatRule.vue:176
 msgid "starts with"
-msgstr ""
+msgstr "dimulai dengan"
 
 #: frontend/src2/query/components/ColumnsSelectorDialog.vue:120
 msgid "{0} columns selected"
