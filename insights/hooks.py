@@ -1,10 +1,10 @@
 app_name = "insights"
-app_title = "Insights"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_title = "GARP Insights"
+app_publisher = "Aiconec GARP"
 app_description = "Powerful Reporting Tool for Frappe Apps"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hello@frappe.io"
+app_email = "engineering@aiconec.com"
 app_license = "GNU GPLv3"
 
 export_python_type_annotations = True
