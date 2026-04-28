@@ -14,7 +14,7 @@ require_type_annotated_api_methods = True
 add_to_apps_screen = [
     {
         "name": "insights",
-        "logo": "/assets/insights/frontend/insights-logo.png",
+        "logo": "/assets/insights/images/garp-datastudio-icon.svg",
         "title": "GARP Data Studio",
         "route": "/insights",
         "has_permission": "insights.permissions.check_app_permission",
