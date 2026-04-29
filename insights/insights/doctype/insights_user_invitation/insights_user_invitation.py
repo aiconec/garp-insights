@@ -47,7 +47,7 @@ class InsightsUserInvitation(Document):
         if frappe.local.dev_server:
             print(f"Invite link for {self.email}: {invite_link}")
 
-        title = "Insights"
+        title = "GARP Data Studio"
         template = "insights_invitation"
 
         frappe.sendmail(

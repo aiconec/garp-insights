@@ -77,7 +77,7 @@ class InsightsAlert(Document):
         tg.send(message)
 
     def send_email_alert(self, message):
-        subject = f"Insights Alert: {self.title}"
+        subject = f"GARP Data Studio Alert: {self.title}"
         recievers = self.get_recipients()
         frappe.sendmail(
             recipients=recievers,
