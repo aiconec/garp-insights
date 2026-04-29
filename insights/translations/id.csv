@@ -55,7 +55,7 @@ Basic Authentication,Otentikasi Dasar
 Batch Size,Ukuran Batch
 Before Import Script,Sebelum Impor Skrip
 Below average,Di bawah rata-rata
-BigQuery,Kueri Besar
+BigQuery,BigQuery
 BigQuery Configuration,Konfigurasi BigQuery
 BigQuery Dataset ID,ID Set Data BigQuery
 BigQuery Project ID,ID Proyek BigQuery
@@ -80,7 +80,7 @@ Check once a week,Periksa seminggu sekali
 Check once an hour,Periksa satu jam sekali
 Choose Columns,Pilih Kolom
 Clear,Bersih
-ClickHouse,Klik Rumah
+ClickHouse,ClickHouse
 Close,Tutup
 Collapse,Jatuh
 Color,Warna
@@ -116,7 +116,7 @@ Create a dashboard in your workbook to view it here.,Buat dasbor di buku kerja A
 Created,Dibuat
 Created By,Dibuat Oleh
 Creation,Penciptaan
-Cron,Kron
+Cron,Cron
 Cron Format,Format Cron
 Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,Ekspresi cron untuk menjadwalkan skrip. Catatan: Penjadwal memeriksa pekerjaan setiap jam.
 CumulativeSum,Jumlah Kumulatif
@@ -152,7 +152,7 @@ Done,Selesai
 Draft,Draf
 Drill Down,Telusuri
 Drop Duplicates,Jatuhkan Duplikat
-DuckDB,BebekDB
+DuckDB,DuckDB
 Duplicate,Duplikat
 Duplicate Chart,Bagan Duplikat
 Duplicate Query,Kueri Duplikat
@@ -176,7 +176,7 @@ Enter text,Masukkan teks
 Enter the URL of the DuckDB file,Masukkan URL file DuckDB
 Enter your text content here...,Masukkan konten teks Anda di sini...
 Error,Kesalahan
-Excel,Unggul
+Excel,Excel
 Execute,Menjalankan
 Execution Failed,Eksekusi Gagal
 Execution Successful,Eksekusi Berhasil
@@ -311,10 +311,10 @@ Last Run,Terakhir Dijalankan
 Last Status,Status Terakhir
 Last Synced,Terakhir Disinkronkan
 Last Synced On,Terakhir Disinkronkan Pada
-Left,Waktu tersisa
+Left,Kiri
 Left Column,Kolom Kiri
 Left Table,Meja Kiri
-Legacy,Warisan
+Legacy,Legacy
 Limit,Batas
 Linked Charts,Bagan Tertaut
 Linked Queries,Kueri Tertaut
@@ -324,13 +324,13 @@ Log out,Keluar
 Login to Frappe Cloud,Masuk ke GARP Cloud
 Login to Frappe Cloud?,Masuk ke GARP Cloud?
 Logs,Log
-Long Int,Panjang Int
+Long Int,Long Int
 Long Text,Teks Panjang
 Manage Team,Kelola Tim
 Manage Workbook Access,Kelola Akses Buku Kerja
 MariaDB,MariaDB
 Mark as Failed,Tandai sebagai Gagal
-Markdown supported,Penurunan harga didukung
+Markdown supported,Markdown didukung
 Max Execution Time (Seconds),Waktu Eksekusi Maks (Detik)
 Max Memory Usage,Penggunaan Memori Maks
 Max Records To Sync,Catatan Maks Untuk Disinkronkan
@@ -382,7 +382,7 @@ Order By,Dipesan oleh
 Organization,Organisasi
 Overwrite,Timpa
 Owner,Pemilik
-Parquet File,File Parket
+Parquet File,Parquet File
 Partial Success,Berhasil Sebagian
 Password,Kata sandi
 Pending,Tertunda
@@ -574,12 +574,12 @@ You do not have permission to modify this workbook,Anda tidak memiliki izin untu
 You do not have permission to share this workbook,Anda tidak memiliki izin untuk membagikan buku kerja ini
 Your workbooks will appear here. Create a new workbook to get started.,Buku kerja Anda akan muncul di sini. Buat buku kerja baru untuk memulai.
 after date,setelah tanggal
-asc,bertanya
+asc,asc
 before date,sebelum tanggal
 between dates,antar tanggal
 chart,bagan
 contains,berisi
-desc,deskripsi
+desc,desc
 does not contain,tidak mengandung
 does not equal,tidak sama
 e.g. 0 0 12 * * ?,misalnya 0 0 12 * * ?
