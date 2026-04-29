@@ -20,13 +20,13 @@ const titleBySourceType = {
 }
 const descriptionBySourceType = {
 	erpnext:
-		'Insights is already connected to your ERPNext site. You can optionally give a title to your site to help you identify it as a data source.',
+		'Data Studio is already connected to your ERPNext site. You can optionally give a title to your site to help you identify it as a data source.',
 	mariadb:
 		'You need to enter your MariaDB database details to connect to your database. If you are not sure about your database details, please contact your database administrator.',
 	postgresql:
 		'You need to enter your PostgreSQL database details to connect to your database. If you are not sure about your database details, please contact your database administrator.',
-	file: 'You need to upload a spreadsheet to connect to your data. Insights supports only .csv files.',
-	sample: 'You can choose from one of the sample datasets to connect to Insights.',
+	file: 'You need to upload a spreadsheet to connect to your data. Data Studio supports only .csv files.',
+	sample: 'You can choose from one of the sample datasets to connect to Data Studio.',
 }
 
 const connectStepTitle = computed(() => {
@@ -38,9 +38,9 @@ const connectStepDescription = computed(() => {
 
 const steps = ref([
 	{
-		title: 'Welcome to Insights',
+		title: 'Welcome to Data Studio',
 		description: `
-			To get started, you need to connect some data. You can connect to ERPNext, a SQL database, a spreadsheet, or you can explore our sample datasets to get a feel for how Insights works.
+			To get started, you need to connect some data. You can connect to ERPNext, a SQL database, a spreadsheet, or you can explore our sample datasets to get a feel for how Data Studio works.
 		`,
 		component: markRaw(SourceTypeStep),
 	},
@@ -52,7 +52,7 @@ const steps = ref([
 	{
 		title: 'Help Us Improve',
 		description: `
-			Insights is under active development so	we’d like to ask you a few questions that will help us improve your experience in the future.
+			Data Studio is under active development so	we’d like to ask you a few questions that will help us improve your experience in the future.
 		`,
 		component: markRaw(SetupQuestions),
 	},

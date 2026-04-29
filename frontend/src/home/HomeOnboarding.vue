@@ -23,10 +23,10 @@ function switchToV3() {
 			<AlertTriangle class="mt-0.5 h-4.5 w-4.5 flex-shrink-0 text-amber-700" />
 			<div class="min-w-0 flex-1">
 				<h2 class="text-p-base font-semibold text-gray-900">
-					Insights v2 is being discontinued
+					Data Studio v2 is being discontinued
 				</h2>
 				<p class="mt-1 text-p-sm text-gray-700">
-					You are currently using Insights v2. This version will be removed in an upcoming
+					You are currently using Data Studio v2. This version will be removed in an upcoming
 					update. Switch to v3 now to avoid disruption.
 				</p>
 			</div>
@@ -39,7 +39,7 @@ function switchToV3() {
 	<Dialog
 		v-model="showDetailsDialog"
 		:options="{
-			title: 'Insights v2 is being discontinued',
+			title: 'Data Studio v2 is being discontinued',
 			size: 'lg',
 		}"
 	>
@@ -48,8 +48,8 @@ function switchToV3() {
 				<div>
 					<h3 class="mb-1.5 text-base font-semibold text-gray-900">What's happening?</h3>
 					<p>
-						You are currently using Insights v2. This version will be removed in an
-						upcoming release. Once you update, v2 will no longer be accessible. Insights
+						You are currently using Data Studio v2. This version will be removed in an
+						upcoming release. Once you update, v2 will no longer be accessible. Data Studio
 						v3 is already available with a better experience and ongoing improvements.
 					</p>
 					<p class="mt-2">
@@ -63,7 +63,7 @@ function switchToV3() {
 						What do you need to do?
 					</h3>
 					<p>
-						Open Insights v3 in a new tab and recreate your important dashboards and
+						Open Data Studio v3 in a new tab and recreate your important dashboards and
 						queries there. Start with the ones your team uses every day.
 					</p>
 					<p class="mt-2">
@@ -98,7 +98,7 @@ function switchToV3() {
 
 			<div class="mt-5 flex justify-end gap-2">
 				<Button variant="subtle" @click="showDetailsDialog = false">Close</Button>
-				<Button variant="solid" @click="switchToV3">Open Insights v3</Button>
+				<Button variant="solid" @click="switchToV3">Open Data Studio v3</Button>
 			</div>
 		</template>
 	</Dialog>

@@ -5,10 +5,10 @@
 	>
 		<div class="flex flex-grow flex-col overflow-y-auto p-2.5">
 			<div class="rg:flex hidden flex-shrink-0 items-end text-sm text-gray-600">
-				<img src="../assets/insights-logo-new.svg" class="h-7" />
+				<img src="../assets/garp-datastudio-icon.svg" class="h-7" />
 			</div>
 			<router-link to="/" class="rg:hidden flex cursor-pointer">
-				<img src="../assets/insights-logo-new.svg" class="rounded" />
+				<img src="../assets/garp-datastudio-icon.svg" class="rounded" />
 			</router-link>
 
 			<div class="mt-4 flex flex-col">
@@ -101,7 +101,7 @@
 							  }
 							: null,
 						{
-							label: 'Open Insights v3',
+							label: 'Open Data Studio v3',
 							icon: 'grid',
 							onClick: () => (showSwitchToV3Dialog = true),
 						},
@@ -138,10 +138,10 @@
 	<Dialog
 		v-model="showSwitchToV3Dialog"
 		:options="{
-			title: 'Insights v2 is being discontinued',
+			title: 'Data Studio v2 is being discontinued',
 			actions: [
 				{
-					label: 'Open Insights v3',
+					label: 'Open Data Studio v3',
 					variant: 'solid',
 					onClick: openInsightsV3,
 				},
@@ -151,7 +151,7 @@
 		<template #body-content>
 			<div class="space-y-3 text-sm leading-relaxed text-gray-700">
 				<p>
-					You are currently using Insights v2. A newer version — Insights v3 — is
+					You are currently using Data Studio v2. A newer version — Data Studio v3 — is
 					available with a better experience and ongoing improvements. This interface will
 					be removed on <strong>April 2, 2026</strong>.
 				</p>
@@ -164,7 +164,7 @@
 			<div class="mt-4">
 				<FormControl
 					type="checkbox"
-					label="Always open Insights v3 by default"
+					label="Always open Data Studio v3 by default"
 					:modelValue="session.user.default_version === 'v3'"
 					@update:modelValue="session.user.default_version = $event ? 'v3' : ''"
 				/>

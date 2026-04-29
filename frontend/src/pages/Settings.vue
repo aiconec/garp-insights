@@ -132,5 +132,5 @@ const updateDisabled = computed(() => {
 	)
 })
 
-document.title = 'Settings - Insights'
+document.title = 'Settings - Data Studio'
 </script>

@@ -5,7 +5,7 @@ import { call } from 'frappe-ui'
 const emit = defineEmits(['next', 'prev'])
 const questions = reactive([
 	{
-		question: 'What type of data/database system(s) are you planning to connect with Insights?',
+		question: 'What type of data/database system(s) are you planning to connect with Data Studio?',
 		answerOptions: [
 			'I plan to connect to ERPNext',
 			'I plan to use a SQL database (e.g., MySQL, PostgreSQL).',
@@ -29,7 +29,7 @@ const questions = reactive([
 		selectedAnswerIndexes: [],
 	},
 	{
-		question: 'Which of the following best describes your role or use-case for Insights?',
+		question: 'Which of the following best describes your role or use-case for Data Studio?',
 		answerOptions: [
 			"I'm a business owner/manager looking to monitor and understand key metrics.",
 			"I'm a data analyst/scientist performing in-depth data exploration.",

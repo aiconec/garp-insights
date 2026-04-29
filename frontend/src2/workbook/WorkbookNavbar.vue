@@ -15,7 +15,7 @@ const workbook = inject(workbookKey)!
 			<div class="absolute left-0">
 				<slot name="left">
 					<router-link :to="{ path: '/workbook' }">
-						<img src="../assets/insights-logo-new.svg" alt="logo" class="h-7 rounded" />
+						<img src="../assets/garp-datastudio-icon.svg" alt="logo" class="h-7 rounded" />
 					</router-link>
 				</slot>
 			</div>

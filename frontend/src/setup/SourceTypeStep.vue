@@ -26,7 +26,7 @@ const options = reactive([
 	},
 	{
 		title: 'Sample Dataset',
-		description: 'Explore Insights with sample data',
+		description: 'Explore Data Studio with sample data',
 		img: 'SampleDataIcon.png',
 	},
 ])

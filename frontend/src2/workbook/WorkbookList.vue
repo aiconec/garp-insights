@@ -139,7 +139,7 @@ whenever(cmdV, () => {
 })
 
 watchEffect(() => {
-	document.title = 'Workbooks | Insights'
+	document.title = 'Workbooks | Data Studio'
 })
 </script>
 

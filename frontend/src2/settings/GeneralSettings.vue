@@ -43,7 +43,7 @@ async function setupDemoData() {
 			description="Appears in the top left corner of the application and in the browser tab next to the page title. Recommended size: 32x32px in PNG format."
 		>
 			<div class="flex h-full w-full items-center justify-center rounded border">
-				<img src="../assets/insights-logo-new.svg" alt="Logo" class="w-8 rounded" />
+				<img src="../assets/garp-datastudio-icon.svg" alt="Logo" class="w-8 rounded" />
 			</div>
 		</SettingItem>
 
@@ -83,7 +83,7 @@ async function setupDemoData() {
 		<SettingItem
 			v-if="session.user.is_admin && !session.user.has_demo_data"
 			label="Demo Data"
-			description="Set up sample data and a pre-built workbook to explore Insights features."
+			description="Set up sample data and a pre-built workbook to explore Data Studio features."
 		>
 			<Button
 				variant="subtle"

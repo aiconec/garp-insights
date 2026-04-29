@@ -13,7 +13,7 @@
 					"
 				>
 					<img
-						src="../assets/insights-logo-new.svg"
+						src="../assets/garp-datastudio-icon.svg"
 						alt="logo"
 						class="h-8 w-8 flex-shrink-0 rounded"
 					/>
@@ -25,7 +25,7 @@
 								: 'ml-2 w-auto opacity-100'
 						"
 					>
-						<div class="text-base font-medium leading-none text-gray-900">Insights</div>
+						<div class="text-base font-medium leading-none text-gray-900">Data Studio</div>
 						<div class="mt-1 text-sm leading-none text-gray-700">
 							{{
 								session.user.full_name == 'Administrator'
@@ -51,7 +51,7 @@
 		<Dialog
 			v-model="showSwitchToV2Dialog"
 			:options="{
-				title: __('Switch to Insights v2'),
+				title: __('Switch to Data Studio v2'),
 				actions: [
 					{
 						label: __('Continue'),
@@ -63,11 +63,11 @@
 		>
 			<template #body-content>
 				<div class="prose prose-sm mb-4">
-					<p>Switch to the old version of Insights?</p>
+					<p>Switch to the old version of Data Studio?</p>
 				</div>
 				<FormControl
 					type="checkbox"
-					:label="__('Set Insights v2 as default')"
+					:label="__('Set Data Studio v2 as default')"
 					:modelValue="session.user.default_version === 'v2'"
 					@update:modelValue="session.user.default_version = $event ? 'v2' : ''"
 				/>
@@ -137,7 +137,7 @@ const userDropdownOptions = ref([
 waitUntil(() => session.initialized).then(() => {
 	if (session.user.is_v2_instance) {
 		userDropdownOptions.value.splice(userDropdownOptions.value.length - 2, 0, {
-			label: __('Switch to Insights v2'),
+			label: __('Switch to Data Studio v2'),
 			icon: h(ToggleRight),
 			onClick: () => (showSwitchToV2Dialog.value = true),
 		})
