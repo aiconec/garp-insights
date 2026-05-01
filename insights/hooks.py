@@ -1,5 +1,6 @@
 app_name = "insights"
 app_title = "GARP Data Studio"
+app_icon_title = "Data Studio"
 app_publisher = "Aiconec GARP"
 app_description = "Powerful Reporting Tool for GARP ERP"
 app_icon = "octicon octicon-file-directory"
