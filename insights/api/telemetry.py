@@ -4,7 +4,15 @@
 
 import frappe
 from frappe.utils.data import date_diff
-from frappe.utils.telemetry import POSTHOG_HOST_FIELD, POSTHOG_PROJECT_FIELD, capture
+from frappe.utils.telemetry import capture
+
+# Frappe dropped its posthog integration in v16 (upstream 2d5b093db9), deleting
+# frappe/utils/telemetry/posthog.py which defined these two site_config key
+# names. They are just conf keys -- frappe.conf still carries whatever the
+# operator set -- so they are defined locally with their original values.
+# `capture` and `site_age` survive in frappe.utils.telemetry and are still used below.
+POSTHOG_PROJECT_FIELD = "posthog_project_id"
+POSTHOG_HOST_FIELD = "posthog_host"
 
 from insights.decorators import insights_whitelist
 
