@@ -84,14 +84,7 @@ function switchToV3() {
 							class="text-blue-600 underline hover:text-blue-700"
 							>Telegram community</a
 						>
-						for migration support, or
-						<a
-							href="https://frappecloud.com/support"
-							target="_blank"
-							class="text-blue-600 underline hover:text-blue-700"
-							>create a support ticket</a
-						>
-						if you're on Frappe Cloud.
+						for migration support.
 					</p>
 				</div>
 			</div>
