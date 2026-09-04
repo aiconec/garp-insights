@@ -6,9 +6,7 @@ app_description = "Powerful Reporting Tool for GARP ERP"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "engineering@aiconec.com"
-app_license = "AGPL-3.0"
-# AGPL/GPL source offer: the corresponding source of THIS modified version.
-source_link = "https://github.com/aiconec/garp-insights"
+app_license = "GNU GPLv3"
 
 export_python_type_annotations = True
 require_type_annotated_api_methods = True

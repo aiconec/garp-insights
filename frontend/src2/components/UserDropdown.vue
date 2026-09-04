@@ -77,8 +77,8 @@
 		<Dialog
 			v-model="showLoginToFCDialog"
 			:options="{
-				title: __('Login to GARP Cloud?'),
-				message: __('Are you sure you want to login to your GARP Cloud dashboard?'),
+				title: __('Login to Frappe Cloud?'),
+				message: __('Are you sure you want to login to your Frappe Cloud dashboard?'),
 				actions: [
 					{
 						label: __('Confirm'),
@@ -155,7 +155,7 @@ waitUntil(() => session.initialized).then(() => {
 if (window.is_fc_site) {
 	userDropdownOptions.value.splice(userDropdownOptions.value.length - 1, 0, {
 		icon: h(FrappeCloudIcon),
-		label: __('Login to GARP Cloud'),
+		label: __('Login to Frappe Cloud'),
 		onClick: () => (showLoginToFCDialog.value = true),
 	})
 }
