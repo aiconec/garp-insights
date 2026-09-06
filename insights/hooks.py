@@ -2,11 +2,14 @@ app_name = "insights"
 app_title = "GARP Data Studio"
 app_icon_title = "Data Studio"
 app_publisher = "Aiconec GARP"
-app_description = "Powerful Reporting Tool for GARP ERP"
+app_description = "GARP Data Studio — dashboards and reporting for GARP ERP"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "engineering@aiconec.com"
 app_license = "GNU GPLv3"
+# AGPL-3.0 section 13: this app is a modified version served over a network,
+# so its users are owed the corresponding source of THIS version.
+source_link = "https://github.com/aiconec/garp-insights"
 
 export_python_type_annotations = True
 require_type_annotated_api_methods = True
